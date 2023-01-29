@@ -1,4 +1,4 @@
-#### Andrew Milne, M.A.Sc., P.Eng.
+### Andrew Milne, M.A.Sc., P.Eng.
 
   - Co-creator of the CME Market Sentiment Meter for 1QBit, available for sale at CME DataMine. 
 
@@ -10,7 +10,7 @@
 
   - Sole or lead inventor on 14 U.S. Patents, 4 Australian Patents and 1 Japanese Patent (all in electronic trading).
 
-##### For more information:
+#### For more information:
 
   - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)**
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)**
