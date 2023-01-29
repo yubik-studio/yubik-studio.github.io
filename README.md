@@ -12,7 +12,7 @@
 
 ##### Yubik Studio will offer access to works created by Andrew Milne. 
 
-More on [Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/) or[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)
+More on [Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/) or [Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)
 
 
 
