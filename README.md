@@ -12,7 +12,7 @@
 
 ##### Yubik Studio will offer access to works created by Andrew Milne. 
 
-Material is currently available on Google Scholar, ResearchGate, LinkedIn and 1QBit.com. 
+More on [https://www.linkedin.com/in/yubik/] 
 
 
 
