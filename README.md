@@ -16,14 +16,16 @@ It has often been my task to evaluate the work of other inventors.  I ran the Ev
 
 I've stood in front of product committees more than once.  I've been in presentations to investors.  I know exactly how it feels on both sides of the table.  _Nemawashi_ is a concept I've taken to heart.
 
-**Delivering innovation is mostly about persistence and encouragement.**  There's no shortage of inspirational quotes on this, but I'll end with this thought.  Most people are inherently creative.  It's just that getting out ideas in front of others is not always easy. Neither is coping with rejection. As a team leader, I put a lot of effort into coaching people on their presentation skills, and I do my best in meetings to ensure that every voice is heard.  For some reason, I've been surrounded for most of my career by very creative people.  I don't think it's entirely a matter of luck.   
+**Delivering innovation is mostly about persistence and encouragement.**  There's no shortage of inspirational quotes on this, but I'll end with this thought.  Most people are inherently creative.  It's just that getting out ideas in front of others is not always easy. Neither is coping with rejection. 
+
+As a team leader, I put a lot of effort into coaching people on their presentation skills, and I do my best in meetings to ensure that every voice is heard.  For some reason, I've been surrounded for most of my career by very creative people.  I don't think it's entirely a matter of luck.   
 
 #### To read more: 
 
   - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)**
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)**
   
-##### You can reach me by message on LinkedIn, or by e-mail at andrew@yubik.com
+#### You can reach me by message on LinkedIn, or by e-mail at [andrew@yubik.com](mailto:andrew@yubik.com)
 
 
 
