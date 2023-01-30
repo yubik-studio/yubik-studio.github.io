@@ -4,7 +4,7 @@ Delivery is a key milestone in successful innovation, but it's usually just the 
 
   - Understanding the process is helpful.  The studios and systems that I designed for CBC were used to produce radio and television programs for broadcast to the public. A good design can make production easier or cheaper, but the viewers are mostly impressed by what they see and hear. A video server that can pull B-roll footage from an archive may be quicker and more convenient than sending a PA to the tape library, but before the piece can be created, the journalists and producers must first assemble the story in their minds.  
 
-  - Empathy for the people inside the process is essential.  It can often take a lot of imagination to bring in a "simple" project on-time and on-budget.  We often begin with a concept of the end-users' needs that turns out to be wrong, no matter how many meetings and sign-offs we've had along the way. 
+  - Empathy for the people inside the process is essential.  It can often take a lot of imagination to bring in a "simple" project on-time and on-budget.  We often begin with a concept of the end-user needs that turns out to be wrong, no matter how many meetings and sign-offs we've had along the way. 
 
   - The process sometimes goes on longer than we  think.  The world of patents and intellectual property is not as dry and impersonal as it might look. Like many inventors, I've worked closely with IP lawyers and (on occasion) directly with USPTO patent examiners. However, at AT&T and later at Sony, I had the privilege of learning from top-level IP strategists and rights managers. I don't want to draw too close a parallel between outfitting a studio and earning patent grants, but a lot of action takes place long after the inventor has moved on.  
   
@@ -26,6 +26,7 @@ As a team leader, I put a lot of effort into coaching people on their presentati
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)**
   
 #### You can reach me by message on LinkedIn, or by e-mail at [andrew@yubik.com](mailto:andrew@yubik.com)
+
 
 
 
