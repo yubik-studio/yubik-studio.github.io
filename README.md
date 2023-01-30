@@ -28,7 +28,7 @@ As a team leader, I put a lot of effort into coaching people on their presentati
   - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)**
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)**
   
-#### You can reach me by message on LinkedIn, or by e-mail at [andrew@yubik.com](mailto:andrew@yubik.com)
+#### You can reach me by message on LinkedIn, or by e-mail at [andrew@yubik.com](mailto:andrew@yubik.com) 
 
 
 
