@@ -52,7 +52,7 @@ CME Group is the world’s leading derivatives marketplace. It operates the Chic
 
   - Senior Director, Enterprise Architecture (2014)
     - Shared in the management of CME Group’s enterprise application portfolio.
-    = Developed new techniques for analyzing match engine trace data and FIX message time-of-flight data from Corvil fiber taps, leading to new efficiencies in the Globex match engine code.
+    - Developed new techniques for analyzing match engine trace data and FIX message time-of-flight data from Corvil fiber taps, leading to new efficiencies in the Globex match engine code.
     
   - Senior Director, Trading and Business Systems (2013)
     - Managed the development of new 3D interactive visualization tools for market supervision and compliance. Introduced a novel InfoSec architecture (based on anonymized data sculptures) that made the tools widely deployable.
