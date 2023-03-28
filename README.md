@@ -1,9 +1,7 @@
 ### Innovation Delivered
 Welcome to yubik.com, the home website for  **Andrew Milne, MASc, P.Eng.,** offering some personal thoughts on innovation and delivery.
 
-**Delivery is a key milestone in successful innovation,** but it's often a step in a much larger process. 
-
-I sometimes get asked if it's possible to **help people become more creative.**  I have attended workshops in some companies, and given workshops in others.  I'm hoping to make some of this material available through this site. Programs like *Six Characters Meet Seven Principles* have never been delivered in a context where I had to give up my rights as an author.  The answer is yes, but...
+I sometimes get asked if it's possible to **help people become more creative.**  I have attended workshops in some companies, and given workshops in others.  I'm hoping to make some of this material available through this site.
 
 I have often been tasked with evaluating the work of other inventors.  I have stood in front of product committees more than once, and been in presentations to investors.  I know how it feels on both sides of the table.  
 
@@ -43,18 +41,18 @@ October 2015 to November 2022
 
 August 2008 to August 2015
 
-CME Group is the world’s leading derivatives marketplace. It operates the Chicago Mercantile Exchange (CME), the Chicago Board of Trade (CBOT), COMEX and NYMEX.
+CME Group is the world’s leading derivatives marketplace. It operates the Chicago Mercantile Exchange (CME), the Chicago Board of Trade (CBOT), COMEX and NYMEX.  My work at CME Group was mostly in technology research and development related to the electronic trading system.
 
-  - Senior Director, Emerging Technology (2015)
+  - Emerging Technology (2015)
     - Maintained “impact radar” on technologies of interest to CME Group through meetings with vendors and academic researchers.
     - Provided the Strategic Investment Group with technical due diligence.
     - Pioneered the use of Power Usage Effectiveness dashboards for CME Group’s Aurora Data Center.
 
-  - Senior Director, Enterprise Architecture (2014)
+  - Enterprise Architecture (2014)
     - Shared in the management of CME Group’s enterprise application portfolio.
-    - Developed new techniques for analyzing match engine trace data and FIX message time-of-flight data from Corvil fiber taps, leading to new efficiencies in the Globex match engine code.
+    - Developed new techniques for analyzing match engine trace data and FIX message time-of-flight data from Corvil fiber taps, leading to new efficiencies in the Globex match engine code. 
     
-  - Senior Director, Trading and Business Systems (2013)
+  - Trading and Business Systems (2013)
     - Managed the development of new 3D interactive visualization tools for market supervision and compliance. Introduced a novel InfoSec architecture (based on anonymized data sculptures) that made the tools widely deployable.
 
     - Created and ran the CME Group’s in-house Algo Trading Game for the HR Department Talent Exchange. Over 50 participants from across the company learned how to write players for my simulated trading system, and competed as trading teams in weekly online tournaments. 
@@ -72,7 +70,7 @@ CME Group is the world’s leading derivatives marketplace. It operates the Chic
 
 December 2004 to August-2008
 
-NYMEX is a commodities exchange most known for energy futures trading, specifically crude oil and natural gas. It was acquired by CME Group in 2008.
+NYMEX is a commodities exchange most known for energy futures trading, specifically crude oil and natural gas. It was acquired by CME Group in 2008.  I was first engaged by NYMEX as an Algorithmic Engineer, to lead the development of a new match engine for the ClearPort Trading System.
 
   - Led the design, development, and testing of a second-generation match engine using highly-parallel graph theory algorithms.  Ultimately awarded 16 U.S. Patents, most as sole or lead inventor.  
 
@@ -130,14 +128,43 @@ August 1988 to December 1996
 
 CBC is Canada’s public broadcaster, with an annual budget (at the time) of  $1.3 billion. CBC Engineering managed  $40+ million in studio equipment procurement and delivered  $10+ million in engineering services.   
 
-  - Thought leader and technical architect for CBC’s transition to computer-based broadcasting.  Managed suppliers and consulted on all computer-related projects for over six years. 
+  - Senior Engineer, Production Systems Development.
 
-  - Developed automated test procedures for audio compression algorithms.  Represented CBC on standards bodies.  Expert listener for MPEG. 
+    - Thought leader and technical architect for CBC’s transition to computer-based broadcasting.  Managed suppliers and consulted on all computer-related projects for over six years, including Desktop Radio and Desktop Television for journalists.
+    - Managed the evaluation lab and the national engineering test equipment pool.
+    - Prepared strategic briefings (in English and French) for senior engineering management.
 
-  - Supervised the evaluation lab and national test equipment pool.
+  - Engineer, Strategic Engineering, Capital Projects 
 
-  - Sessional Instructor in the McGill University Graduate Program in Sound Recording. 
+    - Developed automated test procedures for audio compression algorithms.
+    - Represented CBC on standards bodies.  
+    - Sessional Instructor in the McGill University Graduate Program in Sound Recording.
+    - Expert listener for MPEG.  Expert witness for Apple Computer (2009).
 
+-----
+
+### PROFESSIONAL QUALIFICATIONS: 
+
+  - **M.A.Sc.	Engineering Physics,** University of British Columbia, Canada
+  - **B.A.Sc. Electrical Engineering,** University of British Columbia, Canada
+
+  - **Professional Engineer (APEGBC).**  
+
+  - Diploma in Television Studio Production (Toronto Metropolitan University).  
+  - Proficient in French.  Ingénieur (*Ordre des ingénieurs du Québec*), 1992-2021 
+  - Studied Japanese to the 2nd year college level (*Université de Montréal*).  
+  - Training in secure application development (at CME Group).
+
+For a complete list of my patents and publications, see **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** 
+
+
+### TOOLS AND TECHNOLOGIES RECENTLY USED: 
+
+Most of my work involves communicating with other people. However, I frequently act as a resource on my own projects, and this has given me first-hand experience with the software listed below:
+
+  - *1QBit (Python focus):* Amazon Web Services (AWS), Apache Airflow, Astronomer Cloud, AWS Secrets, C++, Confluence, Docker, D-Wave Quantum Annealer, Eclipse, Excel, FFMPEG, Fujitsu Digital Annealer (FPGA), Git, GitHub Actions, Google Cloud Platform (GCP), Grasshopper, Jenkins, Jira, Jupyter (iPython), Kubernetes, Latex, Lattice, Linux, Mathematica, matplotlib, Microsoft Azure Quantum (to access IonQ, Honeywell, IBM, and 1QBit simulators), Microsoft Project, paramiko, PowerPoint, PyCharm, PyDev, PyUnit, pysftp, Quay, Scikit-learn, statsmodels, Travis, VS Code, Word, Zendesk. Startup work is always more hands-on.
+
+  - *CME Group & NYMEX (Java focus):*  Ant, Apptio, Bamboo, C++, ClearCase, Confluence, Corvil, Cucumber, Eclipse, Excel, FIX Protocol, Git, IntelliJ, Java, Linux, Mathematica. Maven, Maxeler FPGA, MediaWiki, Nexus, PowerPoint, Selenium, SharePoint, Sonic MQ, Spring, Splunk, SQL, Virgo (OSGi), Visio, Visual Studio, VMware, WebGL, Windows Server, Word, XML Spy, Xerces.
 
 
 
