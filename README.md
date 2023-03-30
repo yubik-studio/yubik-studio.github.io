@@ -1,11 +1,11 @@
 ### Innovation Delivered
 Welcome to yubik.com, the home website for  **Andrew Milne, MASc, P.Eng.,** offering some personal thoughts on innovation and delivery.
 
-I sometimes get asked if it's possible to **help people become more creative.**  I have attended workshops in some companies, and given workshops in others.  I'm hoping to make some of this material available through this site.
+I sometimes get asked if it's possible to **help people become more creative.**  I have attended workshops in some companies, given workshops in others, and learned a lot through practice. 
 
-I have often been tasked with evaluating the work of other inventors.  I have stood in front of product committees more than once, and been in presentations to investors.  I know how it feels on both sides of the table.  
+I have often been tasked with evaluating the work of other inventors.  I have also stood in front of product committees more than once, and been in presentations to investors.  I know how it feels on both sides of the table.  
 
-**Delivering innovation is mostly about persistence and encouragement.**  There's no shortage of inspirational quotes on this, but I'll end with this thought.  Most people are inherently creative.  It's just that getting out ideas in front of others is not always easy. Neither is coping with rejection (after rejection, after rejection...). 
+**Delivering innovation is mostly about persistence and encouragement.**  There's no shortage of inspirational quotes on this, so I'll just make this one practical observation:   Most people are inherently creative. The hard part is getting out ideas in front of others, and coping with rejection (after rejection, after rejection...). 
 
 As a team leader, I put a lot of effort into coaching people on their presentation skills, and I do my best in meetings to ensure that every voice is heard.  For some reason, I've been surrounded for most of my career by very creative people.  I don't think it's entirely a matter of luck.   
 
@@ -18,6 +18,8 @@ As a team leader, I put a lot of effort into coaching people on their presentati
 
 -----
 ## Andrew Milne Resume
+
+My academic background is in physics and electrical engineering. This makes me partly an explorer of the natural world, and partly a builder, mostly of software and systems.   
 
 ### Senior Lead, Optimization Solutions (Finance Products), 1QB Information Technologies (1QBit)
 
