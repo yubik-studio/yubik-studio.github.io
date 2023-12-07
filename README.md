@@ -145,7 +145,7 @@ CBC is Canada’s public broadcaster, with an annual budget (at the time) of  $1
 
 -----
 
-### PROFESSIONAL QUALIFICATIONS: 
+## PROFESSIONAL QUALIFICATIONS: 
 
   - **M.A.Sc.	Engineering Physics,** University of British Columbia, Canada
   - **B.A.Sc. Electrical Engineering,** University of British Columbia, Canada
@@ -160,7 +160,7 @@ CBC is Canada’s public broadcaster, with an annual budget (at the time) of  $1
 For a complete list of my patents and publications, see **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** 
 
 
-### TOOLS AND TECHNOLOGIES RECENTLY USED: 
+## TOOLS AND TECHNOLOGIES RECENTLY USED: 
 
 Most of my work involves communicating with other people. However, I frequently act as a resource on my own projects, and this has given me first-hand experience with the software listed below:
 
