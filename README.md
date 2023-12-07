@@ -70,7 +70,7 @@ CME Group is the world’s leading derivatives marketplace. It operates the Chic
 
 ### Director of Algorithmic Engineering and Advanced Technology, New York Mercantile Exchange (NYMEX)
 
-December 2004 to August-2008
+December 2004 to August 2008
 
 NYMEX is a commodities exchange most known for energy futures trading, specifically crude oil and natural gas. It was acquired by CME Group in 2008.  I was first engaged by NYMEX as an Algorithmic Engineer, to lead the development of a new match engine for the ClearPort Trading System.
 
