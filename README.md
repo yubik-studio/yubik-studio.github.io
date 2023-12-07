@@ -1,5 +1,5 @@
 ### Andrew Milne
-Welcome to yubik.com, the home website for  **Andrew Milne.**  There's a basic resume here, and links to other pages where you can find out more about my work.
+Welcome to yubik.com, the home website for  **Andrew Milne.**  There's a basic resume here, and links to other pages with more informaton. 
 
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (all of my patents are listed here)
   - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)** (papers on ResearchGate can be downloaded)
@@ -10,7 +10,14 @@ Welcome to yubik.com, the home website for  **Andrew Milne.**  There's a basic r
 -----
 ## Andrew Milne Resume
 
-My academic background is in physics and electrical engineering. This makes me partly an explorer of the natural world, and partly a builder, mostly of software and systems.   
+Former Senior Director, Technology Specialist at CME Group, and Senior Lead, Optimization Solutions at 1QBit (Quantum Computing and Artificial Intelligence). I have also held management positions at Sony, Reciprocal (AT&T a2b music), N2K Music Boulevard, and the Canadian Broadcasting Corporation. 
+
+My academic background is in physics and electrical engineering. This makes me partly an explorer and partly a builder, mostly of software and systems.  
+
+Most problems in finance and engineering can be tackled mathematically.  Their solutions almost always involve computation and the design of algorithms.     
+
+I can bring leadership to all stages of the software development life cycle, in both classical and quantum computing: market analysis, data science, technology evaluation. enterprise architecture, visioning, requirements, specifications (classic waterfall, RUP, agile), software architecture, use case models, test design, planning, staffing, coaching, code development, integration, QA, deployment, documentation, product marketing and (that vital step), applying for patents and R&D tax credits.  
+
 
 ### Senior Lead, Optimization Solutions (Finance Products), 1QB Information Technologies (1QBit)
 
