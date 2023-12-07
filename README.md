@@ -1,19 +1,10 @@
-### Innovation Delivered
-Welcome to yubik.com, the home website for  **Andrew Milne, MASc, P.Eng.,** offering some personal thoughts on innovation and delivery.
+### Andrew Milne
+Welcome to yubik.com, the home website for  **Andrew Milne.**  There's a basic resume here, and links to other pages where you can find out more about my work.
 
-I sometimes get asked if it's possible to **help people become more creative.**  I have attended workshops in some companies, given workshops in others, and learned a lot through practice. 
-
-I have often been tasked with evaluating the work of other inventors.  I have also stood in front of product committees more than once, and been in presentations to investors.  I know how it feels on both sides of the table.  
-
-**Delivering innovation is mostly about persistence and encouragement.**  There's no shortage of inspirational quotes on this, so I'll just make this one practical observation:   Most people are inherently creative. The hard part is getting out ideas in front of others, and coping with rejection (after rejection, after rejection...). 
-
-As a team leader, I put a lot of effort into coaching people on their presentation skills, and I do my best in meetings to ensure that every voice is heard.  For some reason, I've been surrounded for most of my career by very creative people.  I don't think it's entirely a matter of luck.   
-
-#### To read more: 
-
-  - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)**
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)**
-  
+  - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)** (papers on ResearchGate can be downloaded)
+  - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (you must be logged into LinkedIn to see the full profile)
+
 #### You can reach me by message on LinkedIn, or by e-mail at [andrew@yubik.com](mailto:andrew@yubik.com) 
 
 -----
