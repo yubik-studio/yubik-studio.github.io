@@ -1,7 +1,7 @@
 ### Andrew Milne
 Welcome to yubik.com, the home website for  **Andrew Milne.**  There's a basic resume here, and links to other pages where you can find out more about my work.
 
-  - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)**
+  - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (all of my patents are listed here)
   - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)** (papers on ResearchGate can be downloaded)
   - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (you must be logged into LinkedIn to see the full profile)
 
@@ -141,7 +141,7 @@ CBC is Canada’s public broadcaster, with an annual budget (at the time) of  $1
   - **M.A.Sc.	Engineering Physics,** University of British Columbia, Canada
   - **B.A.Sc. Electrical Engineering,** University of British Columbia, Canada
 
-  - **Professional Engineer (APEGBC).**  
+  - **Professional Engineer (non-practicing), Association of Professional Engineers and Geoscientists of British Columbia.** 
 
   - Diploma in Television Studio Production (Toronto Metropolitan University).  
   - Proficient in French.  Ingénieur (*Ordre des ingénieurs du Québec*), 1992-2021 
