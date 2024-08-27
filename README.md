@@ -1,5 +1,5 @@
 ### Andrew Milne
-Welcome to yubik.com, the home website for  **Andrew Milne.**  There's a basic resume here on this page, and links to other pages with more informaton: 
+Welcome to yubik.com, the home website for  **Andrew Milne.**  There's a basic resume here on this page, and links to other pages with more informaton:  
 
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (all of my patents are listed here)
   - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)** (papers on ResearchGate can be downloaded)
