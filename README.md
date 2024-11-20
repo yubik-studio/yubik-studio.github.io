@@ -11,7 +11,7 @@ Welcome to yubik.com, the home website for  **Andrew Milne.**  There's a basic r
 
 We can collaborate, or you can hire my services professionally and keep the rights to the work. My rates are always reasonable. 
 
-Think of me for requirements gathering, systems architecture. use case development and other early-stage work where business experience and clear thinking will save you money down the road. I'm also available for teaching and tutoring in math, physics, computer science and related topics, in part because I'm interested in how people learn these things.        
+Think of me for requirements gathering, systems architecture. use case development and other early-stage work where business experience, clear thinking and **clear writing** will save you big money down the road. I can also help you with  teaching and tutoring in math, physics, computer science and related topics - from middle school to grad school.  
 
 #### You can reach me by message on LinkedIn, or by e-mail at [andrew@yubik.com](mailto:andrew@yubik.com) 
 
