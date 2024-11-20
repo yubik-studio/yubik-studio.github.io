@@ -7,7 +7,11 @@ Welcome to yubik.com, the home website for  **Andrew Milne.**  There's a basic r
   - **[Andrew Milne on Substack](https://substack.com/@friendofmerlin)** (writing projects)
   - **[Andrew Milne on Bluesky](https://bsky.app/profile/friendofmerlin.bsky.social)** (follow me for regular updates)
 
-#### I AM AVAILABLE FOR R&D COLLABORATION AND RELATED WORK ON CONTRACT.   
+#### I can help you on a wide range of projects.   
+
+We can collaborate, or you can hire my services professionally and keep the rights to the work. My rates are always reasonable. 
+
+Think of me for requirements gathering, systems architecture. use case development and other early-stage work where business experience and clear thinking will save you money down the road. I'm also available for teaching and tutoring in math, physics, computer science and related topics, in part because I'm interested in how people learn these things.        
 
 #### You can reach me by message on LinkedIn, or by e-mail at [andrew@yubik.com](mailto:andrew@yubik.com) 
 
