@@ -4,7 +4,10 @@ Welcome to yubik.com, the home website for  **Andrew Milne.**  There's a basic r
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (all of my patents and publications are listed here)
   - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)** (downloadable papers and tutorials)
   - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (my work profile)
-  - **[Andrew Milne on Substack](https://substack.com/@friendofmerlin)** (life, the universe...)
+  - **[Andrew Milne on Substack](https://substack.com/@friendofmerlin)** (writing projects)
+  - **[Andrew Milne on Bluesky](https://bsky.app/profile/friendofmerlin.bsky.social)** (follow me for regular updates)
+
+#### I AM AVAILABLE FOR R&D COLLABORATION AND RELATED WORK ON CONTRACT.   
 
 #### You can reach me by message on LinkedIn, or by e-mail at [andrew@yubik.com](mailto:andrew@yubik.com) 
 
