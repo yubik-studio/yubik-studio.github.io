@@ -9,7 +9,7 @@ Welcome to yubik.com, the home website for  **Andrew Milne.**  There's a basic r
 
 #### I can help you on a wide range of projects.   
 
-We can collaborate, or you can hire my services professionally and keep the rights to the work. My rates are always reasonable. 
+We can collaborate as partners, or you can hire my services professionally and keep the rights to the work. My rates are always reasonable. 
 
 Think of me for analysis, requirements, architecture. use cases and other early-stage work, where business experience and **clear writing** will save you big money down the road. I can also help you with teaching and tutoring in math, physics, and computer science (at all levels), or with anything more specialized that you see on my resume below.  
 
@@ -22,7 +22,7 @@ My academic background is in physics and electrical engineering. This makes me p
 
 I have held management positions at 1QBit (quantum computing), CME Group, NYMEX, Sony, Reciprocal (AT&T a2b music), N2K Music Boulevard, and the Canadian Broadcasting Corporation.  Yubik.com is my personal consultancy.
 
-My focus is always on connecting people with systems, [a concept that I recently wrote about on Substack](https://open.substack.com/pub/milnea/p/connecting-people-with-systems).  Team building and agile methodologies are part of this, and over the years they have brought me good results.
+My focus is always on connecting people with systems, [a concept that I recently wrote about on Substack](https://open.substack.com/pub/milnea/p/connecting-people-with-systems).  I believe strongly that inclusive team building and agile methodologies are big part of this, and over the years they have brought me good results.
 
 
 ## EXPERIENCE
@@ -79,6 +79,7 @@ February 2002 to June 2004
     - Brought together Memory Stick, Vaio, Clié (handhelds), Sony Music, Sony Pictures and others for the development of synergy product concepts. Performed market analysis for SCA Corporate Development.  
 
 
+
   - Manager of Technology (digital rights management architect) for a new payment system planned as a joint venture with a major U.S. financial services partner and scoped at $500M.  
 
     - Enabling technologies included PKI, biometric (fingerprint) authentication and FIPS-140 compliant devices with cryptographic tokens.
@@ -124,6 +125,7 @@ CBC is Canada’s public broadcaster, with an annual budget (at the time) of  $1
     - Thought leader and technical architect for CBC’s transition to computer-based broadcasting.  Managed suppliers and consulted on all computer-related projects for over six years, including Desktop Radio and Desktop Television for journalists.
     - Managed the evaluation lab and the national engineering test equipment pool.
     - Prepared strategic briefings (in English and French) for senior engineering management.
+
 
 
   - Engineer, Strategic Engineering, Capital Projects 
