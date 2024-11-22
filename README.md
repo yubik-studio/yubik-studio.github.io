@@ -11,7 +11,7 @@ Welcome to yubik.com, the home website for  **Andrew Milne.**  There's a basic r
 
 We can collaborate, or you can hire my services professionally and keep the rights to the work. My rates are always reasonable. 
 
-Think of me for requirements gathering, systems architecture. use case development and other early-stage work where business experience, clear thinking and **clear writing** will save you big money down the road. I can also help you with  teaching and tutoring in math, physics, computer science and related topics - from middle school to grad school.  
+Think of me for requirements gathering, systems architecture. use case development and other early-stage work, where business experience, clear thinking and **clear writing** will save you big money down the road. I can also help you with teaching and tutoring in math, physics, and computer science, or with anything more specialized that you see on my resume below.  
 
 #### You can reach me by message on LinkedIn, or by e-mail at [andrew@yubik.com](mailto:andrew@yubik.com) 
 
@@ -22,9 +22,8 @@ My academic background is in physics and electrical engineering. This makes me p
 
 I have held management positions at 1QBit (quantum computing), CME Group, NYMEX, Sony, Reciprocal (AT&T a2b music), N2K Music Boulevard, and the Canadian Broadcasting Corporation.  Yubik.com is my personal consultancy.
 
-For the record, I have an Erdös number of 4, which is not bad for an engineer. However, it's based on co-authored papers in quantitative finance, published in books and journals that were not tracked by MathSciNet, so you won’t find my name on the AMS website. 
+My focus is always on connecting people with systems, [a concept that I recently wrote about on Substack](https://open.substack.com/pub/milnea/p/connecting-people-with-systems).  Team building and agile methodologies are part of this, and for me they have brought good results.
 
-My patents and publications are listed on Google Scholar. My h-index is based mostly on patent citations, although my paper on quantum computing (Optimal feature selection  using a quantum annealer) has been gaining ground.   
 
 ## EXPERIENCE
 
@@ -79,6 +78,7 @@ February 2002 to June 2004
 
     - Brought together Memory Stick, Vaio, Clié (handhelds), Sony Music, Sony Pictures and others for the development of synergy product concepts. Performed market analysis for SCA Corporate Development.  
 
+
   - Manager of Technology (digital rights management architect) for a new payment system planned as a joint venture with a major U.S. financial services partner and scoped at $500M.  
 
     - Enabling technologies included PKI, biometric (fingerprint) authentication and FIPS-140 compliant devices with cryptographic tokens.
@@ -125,6 +125,7 @@ CBC is Canada’s public broadcaster, with an annual budget (at the time) of  $1
     - Managed the evaluation lab and the national engineering test equipment pool.
     - Prepared strategic briefings (in English and French) for senior engineering management.
 
+
   - Engineer, Strategic Engineering, Capital Projects 
 
     - Developed automated test procedures for audio compression algorithms.
@@ -153,9 +154,8 @@ For a complete list of my patents and publications, see **[Andrew Milne on Googl
 
 Most of my work involves communicating with other people. However, I frequently act as a resource on my own projects, and this has given me first-hand experience with the software listed below:
 
-  - *1QBit (Python focus):* Amazon Web Services (AWS), Apache Airflow, Astronomer Cloud, AWS Secrets, C++, Confluence, Docker, D-Wave Quantum Annealer, Eclipse, Excel, FFMPEG, Fujitsu Digital Annealer (FPGA), Git, GitHub Actions, Google Cloud Platform (GCP), Grasshopper, Jenkins, Jira, Jupyter (iPython), Kubernetes, Latex, Lattice, Linux, Mathematica, matplotlib, Microsoft Azure Quantum (to access IonQ, Honeywell, IBM, and 1QBit simulators), Microsoft Project, paramiko, PowerPoint, PyCharm, PyDev, PyUnit, pysftp, Quay, Scikit-learn, statsmodels, Travis, VS Code, Word, Zendesk. Startup work is always more hands-on.
-
+  - *1QBit (Python focus):* Amazon Web Services (AWS), Apache Airflow, Astronomer Cloud, AWS Secrets, C++, Confluence, Docker, D-Wave Quantum Annealer, Eclipse, Excel, FFMPEG, Fujitsu Digital Annealer (FPGA), Git, GitHub Actions, Google Cloud Platform (GCP), Grasshopper, Jenkins, Jira, Jupyter (iPython), Kubernetes, Latex, Lattice, Linux, Mathematica, matplotlib, Microsoft Azure Quantum (to access IonQ, Honeywell, IBM, and 1QBit simulators), Microsoft Project, paramiko, PowerPoint, PyCharm, PyDev, PyUnit, pysftp, Quay, Scikit-learn, statsmodels, Travis, VS Code, Word, Zendesk. 
   - *CME Group & NYMEX (Java focus):*  Ant, Apptio, Bamboo, C++, ClearCase, Confluence, Corvil, Cucumber, Eclipse, Excel, FIX Protocol, Git, IntelliJ, Java, Linux, Mathematica. Maven, Maxeler FPGA, MediaWiki, Nexus, PowerPoint, Selenium, SharePoint, Sonic MQ, Spring, Splunk, SQL, Virgo (OSGi), Visio, Visual Studio, VMware, WebGL, Windows Server, Word, XML Spy, Xerces.
 
 
-
+#### You can reach me by message on LinkedIn, or by e-mail at [andrew@yubik.com](mailto:andrew@yubik.com) 
