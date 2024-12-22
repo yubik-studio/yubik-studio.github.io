@@ -27,7 +27,7 @@ My academic background is in physics and electrical engineering. This makes me p
 
 I have held management positions at 1QBit (quantum computing), CME Group, NYMEX, Sony, Reciprocal (AT&T a2b music), N2K Music Boulevard, and the Canadian Broadcasting Corporation.  Yubik.com is my personal consultancy.
 
-My focus is always on connecting people with systems, [a concept that I recently wrote about on Substack](https://open.substack.com/pub/milnea/p/connecting-people-with-systems).  I believe strongly that inclusive team building and agile methodologies are big part of this, and over the years they have brought me good results.
+My focus is always on connecting people with systems, **[a concept that I recently wrote about on Substack](https://open.substack.com/pub/milnea/p/connecting-people-with-systems).**  I believe strongly that inclusive team building and agile methodologies are big part of this, and over the years they have brought me good results.
 
 
 ## EXPERIENCE
