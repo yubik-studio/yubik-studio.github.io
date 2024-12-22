@@ -3,22 +3,22 @@ Welcome to yubik.com, the home website for  **Andrew Milne.**
 
 Discovery through creation is a concept I apply to everything around me. Even to share a thought is to create an impression in someone’s mind.
 
-I believe that our knowledge of Nature is best developed by creating things, including algorithms that express knowledge in an abstract way. 
+I believe that our knowledge of Nature is best developed by creating things, including algorithms that express our knowledge in an abstract way. 
 
  My hope is that you came here as a step towards us working together and creating something new. For reference, there's a resume further down the page, and examples of my work at the links below:    
 
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (all of my patents and publications are listed here)
   - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)** (downloadable papers and tutorials)
   - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (my work profile)
-  - **[Andrew Milne on Substack](https://substack.com/@friendofmerlin)** (writing projects)
+  - **[Andrew Milne on Substack](https://substack.com/@friendofmerlin)** (links to all my Substack publications, including the [yubik.com strategic engineering newsletter](https://yubik.substack.com) and The New Sun Tzu Reading Project from  [Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).
 
-#### I can help you on a wide range of projects.   
+### I can help you on a wide range of projects.   
 
 We can collaborate as partners, or you can hire my services professionally and keep the rights to the work. My rates are always reasonable. 
 
 Think of me for analysis, requirements, architecture, use cases and other early-stage work, where business experience and **clear writing** will save you big money down the road. I can also help you with teaching and tutoring in math, physics, and computer science (at all levels), or with anything more specialized that you see on my resume below.  
 
-#### You can reach me by message on LinkedIn, or by e-mail at [andrew@yubik.com](mailto:andrew@yubik.com) 
+#### You can reach me by message on LinkedIn, or by e-mail at **[andrew@yubik.com](mailto:andrew@yubik.com).** 
 
 -----
 ## Andrew Milne Online Resume
@@ -165,5 +165,7 @@ Most of my work involves communicating with other people. However, I frequently 
   - *CME Group & NYMEX (Java focus):*  Ant, Apptio, Bamboo, C++, ClearCase, Confluence, Corvil, Cucumber, Eclipse, Excel, FIX Protocol, Git, IntelliJ, Java, Linux, Mathematica. Maven, Maxeler FPGA, MediaWiki, Nexus, PowerPoint, Selenium, SharePoint, Sonic MQ, Spring, Splunk, SQL, Virgo (OSGi), Visio, Visual Studio, VMware, WebGL, Windows Server, Word, XML Spy, Xerces.
 
 
-#### You can reach me by message on LinkedIn, or by e-mail at [andrew@yubik.com](mailto:andrew@yubik.com).  You can also follow me on  **[Bluesky](https://bsky.app/profile/friendofmerlin.bsky.social)**
+#### You can reach me by message on LinkedIn, or by e-mail at **[andrew@yubik.com](mailto:andrew@yubik.com)**  
+
+#### You can also follow me on  **[Bluesky](https://bsky.app/profile/friendofmerlin.bsky.social)**
  
