@@ -1,11 +1,11 @@
 ### Andrew Milne
 Welcome to yubik.com, the home website for  **Andrew Milne.**  
 
-Discovery through creation is a concept I apply to everything around me. Even to share a thought is to create an impression in someone’s mind.
+Discovery through creation is a concept that I apply to everything around me. Even to share a thought is to create an impression in someone’s mind.
 
 I believe that our knowledge of Nature is best developed by creating things, including algorithms that express our knowledge in an abstract way. 
 
- My hope is that you came here as a step towards us working together and creating something new. For reference, there's a resume further down the page, and examples of my work at the links below:    
+My hope is that you came here as a step towards us working together. To help you decide, there's a resume further down the page, and examples of my work at the links below:    
 
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (all of my patents and publications are listed here)
   - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)** (downloadable papers and tutorials)
