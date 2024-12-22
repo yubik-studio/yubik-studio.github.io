@@ -1,11 +1,16 @@
 ### Andrew Milne
-Welcome to yubik.com, the home website for  **Andrew Milne.**  There's a basic resume here on this page, and links to other pages with more informaton:  
+Welcome to yubik.com, the home website for  **Andrew Milne.**  
+
+Discovery through creation is a concept I apply to everything around me. Even to share a thought is to create an impression in someone’s mind.
+
+I believe that our knowledge of Nature is best developed by creating things, including algorithms that express knowledge in an abstract way. 
+
+ My hope is that you came here as a step towards us working together and creating something new. For reference, there's a resume further down the page, and examples of my work at the links below:    
 
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (all of my patents and publications are listed here)
   - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)** (downloadable papers and tutorials)
   - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (my work profile)
   - **[Andrew Milne on Substack](https://substack.com/@friendofmerlin)** (writing projects)
-  - **[Andrew Milne on Bluesky](https://bsky.app/profile/friendofmerlin.bsky.social)** (follow me for regular updates)
 
 #### I can help you on a wide range of projects.   
 
@@ -160,4 +165,5 @@ Most of my work involves communicating with other people. However, I frequently 
   - *CME Group & NYMEX (Java focus):*  Ant, Apptio, Bamboo, C++, ClearCase, Confluence, Corvil, Cucumber, Eclipse, Excel, FIX Protocol, Git, IntelliJ, Java, Linux, Mathematica. Maven, Maxeler FPGA, MediaWiki, Nexus, PowerPoint, Selenium, SharePoint, Sonic MQ, Spring, Splunk, SQL, Virgo (OSGi), Visio, Visual Studio, VMware, WebGL, Windows Server, Word, XML Spy, Xerces.
 
 
-#### You can reach me by message on LinkedIn, or by e-mail at [andrew@yubik.com](mailto:andrew@yubik.com) 
+#### You can reach me by message on LinkedIn, or by e-mail at [andrew@yubik.com](mailto:andrew@yubik.com).  You can also follow me on  **[Bluesky](https://bsky.app/profile/friendofmerlin.bsky.social)**
+ 
