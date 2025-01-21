@@ -1,20 +1,20 @@
 ### Andrew Milne
 Welcome to yubik.com, the home website for  **Andrew Milne.**  
 
-Discovery through creation is a concept  I apply to everything around me. Even to share a thought is to create an impression in someone’s mind.
+Discovery through creation is a universal concept. Even to share a thought is to create an impression in someone’s mind.
 
 I believe that our knowledge of Nature is best developed by creating things, including algorithms that express our knowledge in an abstract way. 
 
-My hope is that you came here as a step towards us working together. To help you decide, there's a resume further down the page, and examples of my work at the links below:    
+My hope is that you came here as a step towards us working together. To offer some ideas, there's a resume further down the page, and examples of my work at the links below:    
 
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (all of my patents and publications are listed here)
   - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)** (downloadable papers and tutorials)
   - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (my work profile)
-  - **[Andrew Milne on Substack](https://substack.com/@friendofmerlin)** (links to all my Substack publications, including the [yubik.com strategic engineering newsletter](https://yubik.substack.com) and The New Sun Tzu Reading Project from  [Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).
+  - **[Andrew Milne on Substack](https://substack.com/@friendofmerlin)** (links to all my Substack publications, including the **[yubik.com strategic engineering newsletter](https://yubik.substack.com)** and **The New Sun Tzu Reading Project from  [Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).**
 
 ### I can help you on a wide range of projects.   
 
-Think of me for analysis, requirements, architecture, use cases and other early-stage work, where business experience and **clear writing** will save you big money down the road. I can also help you with teaching and tutoring in math, physics, and computer science (at all levels), or with anything more specialized that you see on my resume below.  
+Beyond research and development, Think of me for analysis, requirements, architecture, use cases and other early-stage work, where business experience and **clear writing** will save you big money down the road. I can also help you with teaching and tutoring in math, physics, and computer science (at all levels), or with anything more specialized that you see on my resume below.  
 
 I am available on contract at market rates. You won't have to pay a Director of Engineering rate for short term help with SR&ED tax credits, Mitacs documentation, NSERC grant applications, USPTO patent applications, preparation of technical papers for publication (Latex, Word, etc.) or similar work. 
 
@@ -151,8 +151,7 @@ CBC is Canada’s public broadcaster, with an annual budget (at the time) of  $1
 
   - Diploma in Television Studio Production (Toronto Metropolitan University).  
   - Proficient in French.  Ingénieur (*Ordre des ingénieurs du Québec*), 1992-2021 
-  - Studied Japanese to the 2nd year college level (*Université de Montréal*).  
-  - Training in secure application development (at CME Group).
+  - Studied Japanese to the 2nd year college level (*Université de Montréal*).
 
 For a complete list of my patents and publications, see **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** 
 
