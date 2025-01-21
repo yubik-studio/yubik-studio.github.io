@@ -5,12 +5,12 @@ Discovery through creation is a universal concept. Even to share a thought is to
 
 I believe that our knowledge of Nature is best developed by creating things, including algorithms that express our knowledge in an abstract way. 
 
-My hope is that you came here as a step towards us working together. To offer some ideas, there's a resume further down the page, and examples of my work at the links below:    
+My hope is that you came here as a step towards us working together. For some concrete ideas, there's a resume further down the page, and examples of my work at the links below:    
 
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (all of my patents and publications are listed here)
   - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)** (downloadable papers and tutorials)
   - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (my work profile)
-  - **[Andrew Milne on Substack](https://substack.com/@friendofmerlin)** (links to all my Substack publications, including the **[yubik.com strategic engineering newsletter](https://yubik.substack.com)** and **The New Sun Tzu Reading Project from  [Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).**
+  - **[Andrew Milne on Substack](https://substack.com/@friendofmerlin)** (links to all my Substack publications, including the **[yubik.com strategic engineering newsletter](https://yubik.substack.com)** and the New Sun Tzu Reading Project from  **[Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).**
 
 ### I can help you on a wide range of projects.   
 
