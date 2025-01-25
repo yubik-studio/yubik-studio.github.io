@@ -14,9 +14,9 @@ Let's find a way for us to work together. For some possible ideas, please have a
 
 ### I can help you on a wide range of projects.   
 
-Research and development is always interesting, but also think of me for analysis, requirements, architecture, use cases and other early-stage work, where business experience and **authentic human intelligence** will save you time and money down the road. I can also help you with teaching and tutoring in math, physics, and computer science (at all levels), or with anything more specialized that you see on my resume below.  
+Research and development are always interesting, but also think of me for analysis, requirements, architecture, use cases and other early-stage work, where business experience and **authentic human intelligence** will save you time and money down the road. I can also help you with teaching and tutoring in math, physics, and computer science (at all levels), or with anything more specialized that you see on my resume below.  
 
-I am available on contract at market rates. You won't have to pay a Director of Engineering rate for short term help with SR&ED tax credits, Mitacs documentation, NSERC grant applications, USPTO patent applications, preparation of technical papers for publication (Latex, Word, etc.) or similar work. 
+I am available on contract at market rates. You won't have to pay a Director of Engineering rate for short term help with SR&ED tax credits, Mitacs documentation, NSERC grant applications, USPTO patent applications, preparation of technical papers for publication (Latex, Word, etc.) or similar work. I can also help you bring large and ambitious strategic concepts down to manageable size (I'm a good listener). 
 
 #### You can reach me by message on LinkedIn, or by e-mail at **[andrew@yubik.com](mailto:andrew@yubik.com).** 
 
