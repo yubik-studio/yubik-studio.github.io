@@ -5,7 +5,7 @@ Discovery through creation is a universal concept. Even to share a thought is to
 
 I believe that our knowledge of Nature is best developed by creating things, including algorithms that express our knowledge in an abstract way. 
 
-My hope is that you came here as a step towards us working together. For some concrete ideas, there's a resume further down the page, and examples of my work at the links below:    
+Let's find a way for us to work together. For some possible ideas, please have a look at my professional resume (further down the page), and examples of my work at the links below:    
 
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (all of my patents and publications are listed here)
   - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)** (downloadable papers and tutorials)
@@ -14,7 +14,7 @@ My hope is that you came here as a step towards us working together. For some co
 
 ### I can help you on a wide range of projects.   
 
-Beyond research and development, think of me for analysis, requirements, architecture, use cases and other early-stage work, where business experience and **authentic human intelligence** will save you time and money down the road. I can also help you with teaching and tutoring in math, physics, and computer science (at all levels), or with anything more specialized that you see on my resume below.  
+Research and development is always interesting, but also think of me for analysis, requirements, architecture, use cases and other early-stage work, where business experience and **authentic human intelligence** will save you time and money down the road. I can also help you with teaching and tutoring in math, physics, and computer science (at all levels), or with anything more specialized that you see on my resume below.  
 
 I am available on contract at market rates. You won't have to pay a Director of Engineering rate for short term help with SR&ED tax credits, Mitacs documentation, NSERC grant applications, USPTO patent applications, preparation of technical papers for publication (Latex, Word, etc.) or similar work. 
 
