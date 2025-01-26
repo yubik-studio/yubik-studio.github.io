@@ -3,20 +3,20 @@ Welcome to yubik.com, the home website for  **Andrew Milne.**
 
 Discovery through creation is a universal concept. Even to share a thought is to create an impression in someone’s mind.
 
-I believe that our knowledge of Nature is best developed by creating things, including algorithms that express our knowledge in an abstract way. 
+I believe that our knowledge of Nature is best developed by creating things that are useful and beautiful, including algorithms that express our knowledge in an abstract way. 
 
-Let's find a way for us to work together. For some possible ideas, please have a look at my professional resume (further down the page), and examples of my work at the links below:    
+Let's create something together! You can see some examples of my past work at the links below, and there's an online resume further down the page.    
 
-  - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (all of my patents and publications are listed here)
-  - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)** (downloadable papers and tutorials)
+  - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (20 patents and some widely-cited papers)
   - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (my work profile)
   - **[Andrew Milne on Substack](https://substack.com/@friendofmerlin)** (links to all my Substack publications, including the **[yubik.com strategic engineering newsletter](https://yubik.substack.com)** and the New Sun Tzu Reading Project from  **[Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).**
+  - **[Just ask!](mailto:andrew@yubik.com).** Send me an e-mail. I'd love to hear from you.
 
 ### I can help you on a wide range of projects.   
 
-Research and development are always interesting, but also think of me for analysis, requirements, architecture, use cases and other early-stage work, where business experience and **authentic human intelligence** will save you time and money down the road. I can also help you with teaching and tutoring in math, physics, and computer science (at all levels), or with anything more specialized that you see on my resume below.  
+R&D collaboration is always welcome, but also think of me for analysis, requirements, architecture, use cases and other early-stage work, where business experience and **authentic human intelligence** will save you time and money down the road. I can also help you with teaching and tutoring in math, physics, and computer science (at all levels), or with anything more specialized that you see on my resume.  
 
-I am available on contract at market rates. You won't have to pay a Director of Engineering rate for short term help with SR&ED tax credits, Mitacs documentation, NSERC grant applications, USPTO patent applications, preparation of technical papers for publication (Latex, Word, etc.) or similar work. I can also help you bring large and ambitious strategic concepts down to manageable size (I'm a good listener). 
+I am available on contract at market rates. You won't have to pay a Director of Engineering rate for short term help with SR&ED tax credits, Mitacs documentation, NSERC grant applications, USPTO patent applications, preparation of technical papers for publication (Latex, Word, etc.) or similar work. 
 
 #### You can reach me by message on LinkedIn, or by e-mail at **[andrew@yubik.com](mailto:andrew@yubik.com).** 
 
@@ -153,7 +153,10 @@ CBC is Canada’s public broadcaster, with an annual budget (at the time) of  $1
   - Proficient in French.  Ingénieur (*Ordre des ingénieurs du Québec*), 1992-2021 
   - Studied Japanese to the 2nd year college level (*Université de Montréal*).
 
-For a complete list of my patents and publications, see **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** 
+For a complete list of my patents and publications, see **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)**.  
+
+Some of my unpublished material is available on 
+ **[ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)**, including a tutorial on Granger Causation with Python code to replicate the examples.  Granger Causation is a great technique, but it doesn't work the way many people first expect.
 
 
 ## TOOLS AND TECHNOLOGIES RECENTLY USED: 
@@ -166,5 +169,5 @@ Most of my work involves communicating with other people. However, I frequently 
 
 #### You can reach me by message on LinkedIn, or by e-mail at **[andrew@yubik.com](mailto:andrew@yubik.com)**  
 
-#### You can also follow me on  **[Bluesky](https://bsky.app/profile/friendofmerlin.bsky.social)**
+#### You can also follow me on  **[Bluesky](https://bsky.app/profile/friendofmerlin.bsky.social)** 
  
