@@ -10,7 +10,7 @@ Let's create something together! You can see some examples of my past work at th
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (20 patents and some widely-cited papers)
   - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (my work profile)
   - **[Andrew Milne on Substack](https://substack.com/@friendofmerlin)** (links to all my Substack publications, including the **[yubik.com strategic engineering newsletter](https://yubik.substack.com)** and the New Sun Tzu Reading Project from  **[Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).**
-  - **[Just ask!](mailto:andrew@yubik.com).** Send me an e-mail. I'd love to hear from you.
+  - **[Just ask!](mailto:andrew@yubik.com)** Send me an e-mail. I'd love to hear from you.
 
 ### I can help you on a wide range of projects.   
 
