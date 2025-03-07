@@ -3,7 +3,7 @@ Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, enginee
 
 Discovery through creation is a universal concept. Even to share a thought is to create an impression in someone’s mind.
 
-We strengthen our knowledge of Nature is by creating things that are useful and beautiful, including algorithms that express our knowledge in an abstract way. 
+We develop our knowledge of Nature by creating things that are useful and beautiful, including algorithms that express our knowledge in an abstract way. 
 
 Let's do something together! You can see examples of my work at the links below, and there's an online resume further down the page.    
 
