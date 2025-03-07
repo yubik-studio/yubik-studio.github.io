@@ -1,7 +1,7 @@
 ### Andrew Milne
 Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer and author.  
 
-Discovery through creation is universal. Even to share a thought is to create an impression in someone’s mind.
+Discovery through creation is a universal concept. Even to share a thought is to create an impression in someone’s mind.
 
 I believe that we best understand Nature by creating things that are useful and beautiful, including algorithms that express our knowledge in an abstract way. 
 
@@ -23,11 +23,7 @@ R&D collaboration is always welcome, but also think of me for analysis, product 
 -----
 ## Andrew Milne Online Resume
 
-My academic background is in physics and electrical engineering. This makes me partly an explorer and partly a builder, mostly of software and systems.
-
-I have held management positions at 1QBit (quantum computing), CME Group, NYMEX, Sony, Reciprocal (AT&T a2b music), N2K Music Boulevard, and the Canadian Broadcasting Corporation.  Yubik.com is my personal consultancy.
-
-My focus is always on connecting people with systems, **[a concept that I recently wrote about on Substack](https://open.substack.com/pub/milnea/p/connecting-people-with-systems).**  I believe strongly that inclusive team building and agile methodologies are big part of this, and over the years they have brought me good results.
+Former manager and thought leader at 1QBit (quantum computing), CME Group, NYMEX, Sony, Reciprocal (AT&T a2b music), N2K Music Boulevard, and the Canadian Broadcasting Corporation. Yubik.com is my personal consultancy.
 
 
 ## EXPERIENCE
@@ -158,6 +154,8 @@ For a complete list of my patents and publications, see **[Andrew Milne on Googl
 Some of my unpublished material is available on 
  **[ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)**, including a tutorial on Granger Causation with Python code to replicate the examples.  Granger Causation is a great technique, but it doesn't work the way many people first expect.
 
+My focus is always on connecting people with systems, **[a concept that I recently wrote about on Substack](https://open.substack.com/pub/milnea/p/connecting-people-with-systems).**  I believe strongly that inclusive team building and agile methodologies are big part of this, and over the years they have brought me good results.
+
 
 ## TOOLS AND TECHNOLOGIES RECENTLY USED: 
 
@@ -169,5 +167,5 @@ Most of my work involves communicating with other people. However, I frequently 
 
 #### You can reach me by message on LinkedIn, or by e-mail at **[andrew@yubik.com](mailto:andrew@yubik.com)**  
 
-#### You can also follow me on  **[Bluesky](https://bsky.app/profile/friendofmerlin.bsky.social)** 
+#### You can also follow me on  **[Bluesky](https://bsky.app/profile/friendofmerlin.bsky.social)** (although it's mostly cat pictures).
  
