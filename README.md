@@ -3,28 +3,31 @@ Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, enginee
 
 Discovery through creation is a universal concept. Even to share a thought is to create an impression in someone’s mind.
 
-I believe that we best understand Nature by creating things that are useful and beautiful, including algorithms that express our knowledge in an abstract way. 
+We increase our knowledge of the world by creating things that are useful and beautiful, including systems that express our knowledge in abstract ways. 
 
-Let's do something together! You can see examples of my work at the links below, and there's an online resume further down the page.    
+### Let's work on something together! 
 
-  - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (20+ patents and publications, 300+ citations)
-  - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (my work profile)
-  - **[Andrew Milne on Substack](https://substack.com/@friendofmerlin)** (links to all my Substack publications, including the **[yubik.com strategic engineering newsletter](https://yubik.substack.com)** and the New Sun Tzu Reading Project from  **[Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).**
-  - **[Just ask!](mailto:andrew@yubik.com)** Send me an e-mail. I'd love to hear from you.
+R&D collaboration is always welcome, but so is work with an educational or  commercial focus. 
+
+Here are some possible next steps:
+
+  - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (20+ patents and publications, 300+ citations).  **Read my original work** in algorithmic and software  engineering. We can build on these ideas. 
+  - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (Practical accomplishments at 1QBit, CME Group, Sony, CBC and other great places). **Consider my experience** in systems and product development. Remember that for every success there are hundreds of failures and wrong turnings. Combining our knowledge can bring us to the right path. 
+  - **[Andrew Milne on Substack](https://substack.com/@friendofmerlin).** Step back and take in the big picture. My Substack publications are free.  You don’t have to subscribe to read them, although I hope you will.
+  - **[Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).** Join a collaborative writing project led by myself and former colleagues from 1QBit. Our goal is to create a resource for people who want to start a Sun Tzu Reading Project in their own organization. We look for ways to apply *The Art of War* to modern conflicts in business and politics. New readers and writers are welcome. 
+  - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4).** Download some of my unpublished research notes.  There are many techniques just waiting to be applied, such as using Fourier anàysis to estimate Power Usage Efficiency (PUE) at a data center. 
+  - **[Just ask!](mailto:andrew@yubik.com)** Send me an e-mail. A lot of my work has not been published, and many of my NDA’s and non-competes have expired.
 
 ### I can help you on a wide range of projects.   
 
-R&D collaboration is always welcome, but also think of me for analysis, product planning, technical due diligence and other early-stage work, where business experience and **authentic human intelligence** will save you time and money down the road.   
+Think of me for analysis, product planning, technical due diligence and other early-stage work. Intelligent effort here will save you time and money down the road.   
 
-**I am available on contract at market rates.** You won't have to pay a Director of Engineering rate for short term help with data science, grant applications or editing technical papers for publication. Same thing for teaching and learning assistance in math, physics, and computing science (at all levels). or with any of the core engineering skills listed on my resume.  
+**I am available on contract at market rates.** You won't have to pay a Director of Engineering rate for short term help with data gathering or technical writing. Same thing for coaching and learning assistance in math, physics and computing science (all levels), or with any of the applied skills you'll find on my resume (below). 
 
 #### You can reach me by message on LinkedIn, or by e-mail at **[andrew@yubik.com](mailto:andrew@yubik.com).** 
 
 -----
 ## Andrew Milne Online Resume
-
-Former manager and thought leader at 1QBit (quantum computing), CME Group, NYMEX, Sony, Reciprocal (AT&T a2b music), N2K Music Boulevard, and the Canadian Broadcasting Corporation. Yubik.com is my personal consultancy.
-
 
 ## EXPERIENCE
 
