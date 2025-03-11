@@ -29,7 +29,7 @@ Think of me for analysis, product planning, technical due diligence and other ea
 -----
 ## Andrew Milne Online Resume
 
-Thought leader in applied science.  Experienced manager of research and development. Committed to the success of everyone on the team.  
+Thought leader in applied science.  Experienced manager of research and development. A creative problem-solver committed to the success of everyone on the team.  
 
 ## EXPERIENCE
 
