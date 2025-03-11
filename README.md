@@ -7,27 +7,29 @@ We increase our knowledge of the world by creating things that are useful and be
 
 ### Let's work on something together! 
 
-R&D collaboration is always welcome, but so is work with an educational or  commercial focus. 
+R&D collaboration is always welcome, but so is work with an educational or commercial focus. 
 
 Here are some possible next steps:
 
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (20+ patents and publications, 300+ citations).  **Read my original work** in algorithmic and software engineering. We can build on these ideas. 
-  - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (Practical accomplishments at 1QBit, CME Group, Sony, CBC and other great places). Review my track record in systems and product development. Remember that for every success there are hundreds of failures and wrong turnings. Combining our knowledge can bring us to the right path. 
-  - **[Andrew Milne on Substack](https://substack.com/@friendofmerlin).** Step back.  Dive in.  Consider the big picture. My Substack publications are free.  You don’t have to subscribe to read them, although I hope you will.
-  - **[Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).** Join a collaborative writing project led by myself and former colleagues from 1QBit. Our goal is to create a resource for people who want to start a Sun Tzu Reading Project in their own organization. We look for ways to apply *The Art of War* to modern conflicts in business and politics. New readers and writers are welcome. 
-  - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4).** Download some of my unpublished research notes.  There are many techniques just waiting to be applied, such as using Fourier anàysis to estimate Power Usage Efficiency (PUE) at a data center. 
+  - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (practical accomplishments at 1QBit, CME Group, Sony, CBC and other great places). Review my track record in systems and product development. Remember that for every success there are hundreds of failures and wrong turnings, which no one puts on their resume. **Take advantage of my experience.**  Let's combine our knowledge and create something new.      
+  - **[Andrew Milne on Substack](https://substack.com/@friendofmerlin).** Step back and contemplate the broad canvas.  Original essays, commentary, and occasional excerpts from larger works in progress.  Published every few weeks. You don't need a subscription to read the most recent articles, but subscribers get access to the full archive. Subscriptions are free.
+  - **[Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).** Join a collaborative writing project led by myself and former colleagues from 1QBit. Our goal is to create a resource for people who want to start a Sun Tzu Reading Project in their own organization. We look for ways to apply *The Art of War* and other classic texts to modern conflicts in business and politics. New readers and writers are welcome. 
+  - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4).** Download some of my unpublished research notes.  There are many techniques just waiting to be applied, such as using Fourier analysis to estimate Power Usage Efficiency (PUE) at a data center. 
   - **[Just ask!](mailto:andrew@yubik.com)** Send me an e-mail. A lot of my work has not been published, and many of my NDA’s and non-competes have expired.
 
 ### I can help you on a wide range of projects.   
 
-Think of me for analysis, product planning, technical due diligence and other early-stage work. Intelligent effort here will save you time and money down the road.   
+Think of me for analysis, product planning, technical due diligence and other early-stage work. Effort here will save you time and money down the road.   
 
-**I am available on contract at market rates.** You won't have to pay a Director of Engineering rate for short term help with data gathering or technical writing. Same thing for coaching and learning assistance in math, physics and computing science (all levels), or with any of the applied skills you'll find on my resume (below). 
+**I am available on contract at market rates.** You won't have to pay a Director of Engineering rate for short term help with data gathering or technical writing. Same thing for coaching and learning assistance in math, physics and computing science (all levels), or with any of the  skills listed on my resume. 
 
 #### You can reach me by message on LinkedIn, or by e-mail at **[andrew@yubik.com](mailto:andrew@yubik.com).** 
 
 -----
 ## Andrew Milne Online Resume
+
+Thought leader in applied science.  Experienced manager of research and development. Committed to the success of everyone on the team.  
 
 ## EXPERIENCE
 
