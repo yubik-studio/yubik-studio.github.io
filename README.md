@@ -1,5 +1,5 @@
 ### Andrew Milne
-Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer and author.  
+Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author and consultant.
 
 Discovery through creation is a universal concept. Even to share a thought is to create an impression in someone’s mind.
 
