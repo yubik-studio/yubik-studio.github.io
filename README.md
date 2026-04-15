@@ -5,7 +5,7 @@ We improve our knowledge of Nature by creating things, including algorithms that
 
 ### Let's work on something together! 
 
-Most of my time these days is spent on writing projects, but R&D collaboration is always welcome, as is educational or commercial work. Here are some links to start with:
+Most of my time these days is spent on writing projects, but R&D collaboration is always welcome, as is educational and commercial work. Here are some links to start with:
 
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (20+ patents and publications, 400+ citations).  **Read my original work** in algorithmic and software engineering. We can build on these ideas.
   - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (practical accomplishments at 1QBit, CME Group, Sony, CBC and other great places).  **Take advantage of my experience.**  Remember that for every success there are hundreds of failures and wrong turnings, which no one puts on their resume or brags about online. **Avoid failure** by reviewing your plans with someone who has been there.    
