@@ -5,7 +5,7 @@ We improve our knowledge of Nature by creating things, including algorithms that
 
 ### Let's work on something together! 
 
-Most of my time is spent on writing projects, but R&D collaboration is always welcome, as is educational or commercial work. Here are some links to start with:
+Most of my time these days is spent on writing projects, but R&D collaboration is always welcome, as is educational or commercial work. Here are some links to start with:
 
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (20+ patents and publications, 400+ citations).  **Read my original work** in algorithmic and software engineering. We can build on these ideas.
   - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (practical accomplishments at 1QBit, CME Group, Sony, CBC and other great places).  **Take advantage of my experience.**  Remember that for every success there are hundreds of failures and wrong turnings, which no one puts on their resume or brags about online. **Avoid failure** by reviewing your plans with someone who has been there.    
@@ -20,7 +20,7 @@ Think of me for analysis, product planning, technical due diligence and other ea
 
 **I am available on contract at market rates.** You won't have to pay a Director of Engineering rate for short term help with data gathering or technical writing. Same thing for coaching and learning assistance in math, physics and computing science (all levels), or with anything else you see on my resume. If necessary, I can help you assemble a larger team and assist with introductions and fund-raising. 
 
-My core skills are in applied science, but my core values are in rational inquiry and respect for evidence and logic.  I'm open to any kind of work that puts these to good use.
+My core skills are in applied science, but my core values are in rational inquiry and respect for evidence and logic.  I'm open to any kind of work that puts these to good use.  
 
 -----
 ## Andrew Milne Online Resume
@@ -153,9 +153,9 @@ CBC is Canada’s public broadcaster, with an annual budget (at the time) of  $1
 For a complete list of my patents and publications, see **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)**.  
 
 Some of my unpublished material is available on 
- **[ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)**, including a tutorial on Granger Causation with Python code to replicate the examples.  Granger Causation is a great technique, but it doesn't work the way many people first expect.
+ **[ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)**, including a tutorial on Granger Causation with Python code to replicate the examples.  Granger Causation is a great technique, but it doesn't work the way most people first expect.
 
-My focus is always on connecting people with systems, **[a concept that I recently wrote about on Substack](https://open.substack.com/pub/milnea/p/connecting-people-with-systems).**  I believe strongly that inclusive team building and agile methodologies are big part of this, and over the years they have brought me good results.
+My focus is always on connecting people with systems, **[a concept that I recently wrote about on Substack](https://open.substack.com/pub/milnea/p/connecting-people-with-systems).**  I believe strongly that inclusive team building and agile methodologies are big part of this, and over the years they have brought me good results.  
 
 
 ## TOOLS AND TECHNOLOGIES RECENTLY USED: 
