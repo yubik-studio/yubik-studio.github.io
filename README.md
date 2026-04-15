@@ -1,7 +1,7 @@
 ### Andrew Milne
 Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author and consultant.  Discovery through creation is a universal theme in my work. 
 
-I believe that our knowledge of Nature is best developed by creating things, including algorithms that express our knowledge in an abstract way. But even to share a thought is to create an impression in someone’s mind. 
+We improve our knowledge of Nature by creating things, including algorithms that express our knowledge in abstract ways. Even to share a thought is to create an impression in someone’s mind. 
 
 ### Let's work on something together! 
 
@@ -16,13 +16,11 @@ R&D collaboration is always welcome, but so is educational and commercial work. 
 
 ### I can help you on a wide range of projects.   
 
-Think of me for analysis, product planning, technical due diligence and other early-stage work. Effort here will save you time and money down the road.   
+Think of me for analysis, product planning, technical due diligence and other early-stage work. Investment here will save you time and money down the road.   
 
 **I am available on contract at market rates.** You won't have to pay a Director of Engineering rate for short term help with data gathering or technical writing. Same thing for coaching and learning assistance in math, physics and computing science (all levels), or with anything else you see on my resume. If necessary, I can help you assemble a larger team and assist with introductions and fund-raising. 
 
 My core skills are in applied science, but my core values are in rational inquiry and respect for evidence and logic.  I'm open to any kind of work that puts these to good use.
-
-#### You can reach me by e-mail at **[andrew@yubik.com](mailto:andrew@yubik.com).** 
 
 -----
 ## Andrew Milne Online Resume
@@ -66,7 +64,7 @@ December 2004 to August 2008
 
 NYMEX is a commodities exchange most known for energy futures trading, specifically crude oil and natural gas. It was acquired by CME Group in 2008.  
 
-  - Led the design, development, and testing of an order matching engine using highly-parallel graph theory algorithms.  Ultimately awarded 16 U.S. Patents, most as sole or lead inventor.  
+  - Led the design, development, and testing of an order matching engine using highly-parallel graph theory algorithms.  Ultimately awarded 20+ U.S. Patents, most as sole or lead inventor.  
 
   - The rights to my engine design enabled NYMEX to compete successfully as an exchange services provider e.g. to the Dubai Mercantile Exchange (DME). Other exchanges (including CME at the time) were licensees of other IP holders and could not negotiate joint ventures as easily.  
 
