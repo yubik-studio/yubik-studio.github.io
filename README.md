@@ -1,7 +1,7 @@
 ### Andrew Milne
-Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author and consultant.
+Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author and consultant.  Discovery through creation is a universal theme in my work. 
 
-Discovery through creation is a universal concept. Even to share a thought is to create an impression in someone’s mind.
+I believe that our knowledge of Nature is best developed by creating things, including algorithms that express our knowledge in an abstract way. But even to share a thought is to create an impression in someone’s mind. 
 
 ### Let's work on something together! 
 
