@@ -19,7 +19,7 @@ For commercial work,  **I am available on contract at market rates.** You won't 
 My core skills are in applied science, but my core values are in rational inquiry and respect for evidence and logic.  I'm open to any kind of work that puts these to good use.  
 
 ### Help us develop our Art of War strategy workshops 
-Drawing Legs on a Snake is looking for "starter participants" to help us develop our workshops. There are 13 chapters in *The Art of War*, and so far we only have 6 sessions (covering Chapter One). Our goal is to help people set up their own discussion groups and contribute to the larger project (an open source model), so **we are offering "starter workshops" free of charge.**  [Introduction to Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com/p/the-new-sun-tzu-reading-project) gives an overview of an *Art of War* discussion group works.   
+Drawing Legs on a Snake is looking for "starter participants" to help us develop our workshops. There are 13 chapters in *The Art of War*, and so far we only have 6 sessions (covering Chapter One). Our goal is to help people set up their own discussion groups and contribute to the larger project (an open source model), so **we are offering "starter workshops" free of charge.**  [Introduction to Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com/p/the-new-sun-tzu-reading-project) gives an example of an *Art of War* discussion group works.   
 
 -----
 ## Andrew Milne Online Resume
