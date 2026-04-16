@@ -20,7 +20,7 @@ My core skills are in applied science, but my core values are in rational inquir
 For purely commercial work,  **I am available on contract at market rates.** You won't have to pay a Director of Engineering rate for short term help with data gathering or technical writing. Same thing for coaching and learning assistance in math, physics and computing science (all levels), or with anything else you see on my resume. 
 
 ### Help us develop our Art of War strategy workshops 
-Drawing Legs on a Snake is looking for "starter participants" to help us develop our workshops. There are 13 chapters in *The Art of War*, and so far we only have 6 sessions (covering Chapter One). Our goal is to help people set up their own discussion groups and contribute to the larger project (an open source model), so **we are offering "starter workshops" free of charge.**  [Introduction to Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com/p/the-new-sun-tzu-reading-project) gives an example of an *Art of War* discussion group works.   
+Drawing Legs on a Snake is looking for "starter participants" to help us develop our strategy workshops. There are 13 chapters in *The Art of War*, and so far we only have 6 sessions (covering Chapter One). Our goal is to help people set up their own discussion groups and contribute to the larger project (an open source model), so **we are offering "starter workshops" free of charge.**  Please [contact me](mailto:andrew@yubik.com) for details. 
 
 -----
 ## Andrew Milne Online Resume
