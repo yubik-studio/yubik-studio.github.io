@@ -1,7 +1,7 @@
 ### Andrew Milne
 Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author and consultant.  Discovery through creation is a central theme in my work. 
 
-I believe that we improve our knowledge of Nature by creating things, including algorithms that express our knowledge in abstract ways. Even to share a thought is to create an impression in someone’s mind. 
+I believe that we improve our knowledge of Nature by creating things, including algorithms that express our knowledge in abstract ways. 
 
 ### Let's work on something together! 
 
@@ -25,7 +25,7 @@ Drawing Legs on a Snake is looking for "starter participants" to help us develop
 -----
 ## Andrew Milne Online Resume
 
-Thought leader in applied science.  Experienced manager of research and development. A creative problem-solver committed to the success of everyone on the team.  
+Thought leader in applied math and physics.  Experienced manager of research and development. A creative problem-solver committed to the success of everyone on the team.  
 
 ## EXPERIENCE
 
@@ -153,7 +153,7 @@ CBC is Canada’s public broadcaster, with an annual budget (at the time) of  $1
 For a complete list of my patents and publications, see **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)**.  
 
 Some of my unpublished material is available on 
- **[ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)**, including a tutorial on Granger Causation with Python code to replicate the examples.  Granger Causation is a great technique, but it doesn't work the way most people first expect.
+ **[ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)**, including a tutorial on Granger Causation with Python code to replicate the examples.  Granger Causation is a great technique, but it doesn't work the way that most people think it does.
 
 My focus is always on connecting people with systems, **[a concept that I recently wrote about on Substack](https://open.substack.com/pub/milnea/p/connecting-people-with-systems).**  I believe strongly that inclusive team building and agile methodologies are big part of this, and over the years they have brought me good results.  
 
