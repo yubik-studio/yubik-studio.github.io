@@ -1,26 +1,24 @@
 ### Andrew Milne
-Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author and consultant.  Discovery through creation is a central theme in my work. 
+Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, writer, speaker and consultant in technology and business planning.  Discovery through creation is a central theme in my work. 
 
-I believe that we improve our knowledge of Nature by creating things, including algorithms that express our knowledge in abstract ways. We improve our knowledge of ourselves and each other by sharing ideas.  Art and Science both offer us means to this end.
+I believe that we improve our knowledge of Nature by creating things, including algorithms that express our knowledge in abstract ways. We improve our knowledge of ourselves and each other by sharing our thoughts and feelings.  Art and Science both offer us means to this end.
 
 ### Let's work on something together! 
 
-Most of my time these days is spent on writing projects, but to work with others is always rewarding.  Here are some places we can start:
+Most of my time now is spent on writing projects, but work with others is always rewarding.  Here are some places we can start:
 
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (20+ patents and publications, 400+ citations).  **Read my original work** in algorithmic and software engineering. We can build on these ideas.
   - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (practical accomplishments at 1QBit, CME Group, Sony, CBC and other great places).  **Take advantage of my experience.**  Remember that for every success there are hundreds of failures and wrong turnings, which no one puts on their resume or brags about online. **Avoid failure** by reviewing your plans with someone who has been there.    
   - **[Andrew Milne on Substack](https://milnea.substack.com).** Original essays, commentary, pictures, poetry and excerpts from larger works in progress, published every few months or so.  **Let's compare our thoughts.** You don't have to subscribe to read the latest articles, like [Anger against war](https://open.substack.com/pub/milnea/p/anger-against-war), or  [Shakespeare and AI](https://open.substack.com/pub/milnea/p/shakespeare-and-ai).  Subscriptions are free, however, and welcome as a sign of support.
   - **[Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).** Join a collaborative writing project led by myself and former colleagues from 1QBit. Our goal is to create a resource for people who want to start a Sun Tzu Reading Project in their own organizations. We look for ways to apply *The Art of War* and other classic texts to modern conflicts in business and politics. New readers and writers are welcome.  I  host the project on Substack, along with the [yubik.com strategic engineering newsletter](https://yubik.substack.com).
   - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4).** Download some of my unpublished research notes.  There are many techniques just waiting to be applied, such as using Fourier analysis to estimate Power Usage Efficiency (PUE) at a data center. ResearchGate requires a login now, but it's still free.
-  - **[Just ask!](mailto:andrew@yubik.com)** Send me an e-mail. A lot of my work has not been published, and most of my NDA’s and non-competes have expired.
+  - **[Just ask!](mailto:andrew@yubik.com)** Send me an e-mail. A lot of my work has not been published, and many of my NDA’s and non-competes have expired.
  
 
-My core skills are in applied science, but my core values are in rational inquiry and respect for evidence and logic.  I'm open to any kind of project that puts these to good use.  
-
-For purely commercial work,  **I am available on contract at market rates.** You won't have to pay a Director of Engineering rate for short term help with data gathering or technical writing. Same thing for coaching and learning assistance in math, physics and computing science (all levels), or with anything else you see on my resume. 
+My core skills are in applied science, but my core values are in rational inquiry and respect for evidence and logic.  I'm open to any kind of project that puts these to good use.   
 
 ### Help us develop our Art of War strategy workshops 
-Drawing Legs on a Snake is looking for "starter participants" to help us develop our strategy workshops. There are 13 chapters in *The Art of War*, and so far we only have 6 sessions (covering Chapter One). Our goal is to help people set up their own discussion groups and contribute to the larger project (an open source model).  **We are offering "starter workshops" free of charge.**  Please [contact me](mailto:andrew@yubik.com) for details. 
+ [Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com) is looking for "beta participants" to help us in developing our strategy workshops. Our goal is to help people set up their own discussion groups and contribute to the larger project (an open source model). However, each business [has its own way of connecting Sun Tzu's world with its own](https://open.substack.com/pub/drawinglegsonasnake/p/sun-tzu-chapter-one-laying-plans). We'd like to learn more about these.  Please [contact me](mailto:andrew@yubik.com) for details. 
 
 -----
 ## Andrew Milne Online Resume
@@ -170,9 +168,10 @@ Most of my work involves communicating with other people. However, I frequently 
 
 #### You can also follow me on  **[Bluesky](https://bsky.app/profile/friendofmerlin.bsky.social)** (although it's mostly cat pictures).
  
-If you’ve reached this point and want to know more about what I’m like to work with, you might like  [How we invented the Helios Match Engine for the New York Mercantile Exchange](https://open.substack.com/pub/milnea/p/how-we-invented-the-helios-match).  Most of the members on the project team are accessible through LinkedIn.
+If you’ve reached this point and want to know more about what it's like to work with me, please take a look at [How we invented the Helios Match Engine for the New York Mercantile Exchange](https://open.substack.com/pub/milnea/p/how-we-invented-the-helios-match).  Most of the people on the project team are still accessible through LinkedIn.
 
-If you’re from Chicago, you might enjoy my [Soliloquy in the Palmer House Hotel Bar](https://open.substack.com/pub/milnea/p/soliloquy-in-the-palmer-house-hotel).  The paired statues of Romeo and Juliet are worth another look (I had to work a lot with the image settings to bring out Romeo’s expression). 
+If you’re from Chicago, you might enjoy my [Soliloquy in the Palmer House Hotel Bar](https://open.substack.com/pub/milnea/p/soliloquy-in-the-palmer-house-hotel).  The paired statues of Romeo and Juliet are worth looking at more closely (high-contrast image settings bring out more of Romeo’s expression). 
 
-If you're looking for Merlin, he's [here](https://open.substack.com/pub/milnea/p/merlin-observes) and [here](https://open.substack.com/pub/milnea/p/complex-pattern-simple-reaction).
+If you're looking for Merlin (our family cat), he's [here](https://open.substack.com/pub/milnea/p/complex-pattern-simple-reaction) and [here](https://open.substack.com/pub/milnea/p/merlin-observes), one step ahead of Schrödinger. 
+
 
