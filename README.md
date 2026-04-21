@@ -1,7 +1,7 @@
 ### Andrew Milne
 Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, writer, speaker and consultant in technology and business planning.  Discovery through creation is a central theme in my work. 
 
-I believe that we improve our knowledge of Nature by creating things, including algorithms that express our knowledge in abstract ways. We improve our knowledge of ourselves and each other by sharing our thoughts and feelings.  Art and Science both offer us means to this end.
+I believe that we improve our knowledge of Nature by creating things, including algorithms that express our knowledge in abstract ways. We improve our knowledge of ourselves and each other by sharing our ideas.  Art and Science both offer us means to this end.
 
 ### Let's work on something together! 
 
@@ -9,7 +9,7 @@ Most of my time now is spent on writing projects, but work with others is always
 
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (20+ patents and publications, 400+ citations).  **Read my original work** in algorithmic and software engineering. We can build on these ideas.
   - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (practical accomplishments at 1QBit, CME Group, Sony, CBC and other great places).  **Take advantage of my experience.**  Remember that for every success there are hundreds of failures and wrong turnings, which no one puts on their resume or brags about online. **Avoid failure** by reviewing your plans with someone who has been there.    
-  - **[Andrew Milne on Substack](https://milnea.substack.com).** Original essays, commentary, pictures, poetry and excerpts from larger works in progress, published every few months or so.  **Let's compare our thoughts.** You don't have to subscribe to read the latest articles, like [Anger against war](https://open.substack.com/pub/milnea/p/anger-against-war), or  [Shakespeare and AI](https://open.substack.com/pub/milnea/p/shakespeare-and-ai).  Subscriptions are free, however, and welcome as a sign of support.
+  - **[Andrew Milne on Substack](https://milnea.substack.com).** Original essays, commentary, pictures, poetry and excerpts from larger works in progress, published every few months or so.  **Let's compare our thoughts.** You don't have to subscribe to read the latest articles, like [Anger against war](https://open.substack.com/pub/milnea/p/anger-against-war), or  [Shakespeare and AI](https://open.substack.com/pub/milnea/p/shakespeare-and-ai).  Subscriptions are free, however, and welcome as a sign of your continuing interest.
   - **[Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).** Join a collaborative writing project led by myself and former colleagues from 1QBit. Our goal is to create a resource for people who want to start a Sun Tzu Reading Project in their own organizations. We look for ways to apply *The Art of War* and other classic texts to modern conflicts in business and politics. New readers and writers are welcome.  I  host the project on Substack, along with the [yubik.com strategic engineering newsletter](https://yubik.substack.com).
   - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4).** Download some of my unpublished research notes.  There are many techniques just waiting to be applied, such as using Fourier analysis to estimate Power Usage Efficiency (PUE) at a data center. ResearchGate requires a login now, but it's still free.
   - **[Just ask!](mailto:andrew@yubik.com)** Send me an e-mail. A lot of my work has not been published, and many of my NDA’s and non-competes have expired.
@@ -49,9 +49,19 @@ August 2008 to August 2015
 
 CME Group is the world’s leading derivatives marketplace. It operates the Chicago Mercantile Exchange (CME), the Chicago Board of Trade (CBOT), COMEX and NYMEX.  
 
- - Held positions of increasing responsibility in Match Engine Development, Trading and Business Systems, Enterprise Architecture, and Emerging Technology.
+ - Held positions of increasing responsibility in Match Engine Development, Trading and Business Systems, Enterprise Architecture, and Emerging Technology.  
 
  - Provided the CME Strategic Investment Group with technical due diligence, leading to an early-stage investment in 1QB Information Technologies (1QBit), Vancouver-based startup focused on quantum computing and machine learning.  I subsequently joined 1QBit as a subject matter expert in finance technology.
+   
+ - Initiated a new R&D relationship with the Graduate Program in Financial Engineering at the Stevens Institute of Technology in Hoboken.
+   
+ - Expanded Match Engine R&D into collaborative projects with Business Intelligence and Research & Product Development, e.g. to study how implied markets could be used to improve liquidity in corn futures at middle and distant expiries.
+
+  - Developed new correlation techniques for Match Engine logs and FIX message time-of-flight measurements made with Corvil fiber taps, leading to new efficiencies in the Globex match engine code. 
+
+ - Managed the development of new 3D interactive visualization tools for market supervision and compliance.  Introduced a novel InfoSec architecture (based on anonymized data sculptures) that made the tools widely deployable.
+
+  - Created and ran the CME Group’s in-house Algo Trading Game, a training project for the HR Department's Talent Exchange program. Over 50 participants from across the company learned how to write players for my simulated trading system, and competed as trading teams in weekly online tournaments. 
 
 
 -----
