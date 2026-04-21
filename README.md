@@ -1,7 +1,7 @@
 ### Andrew Milne
 Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author and consultant.  Discovery through creation is a central theme in my work. 
 
-I believe that we improve our knowledge of Nature by creating things, including algorithms that express our knowledge in abstract ways. 
+I believe that we improve our knowledge of Nature by creating things, including algorithms that express our knowledge in abstract ways. We improve our knowledge of ourselves and each other by sharing ideas.  Art and Science both offer us means to this end.
 
 ### Let's work on something together! 
 
@@ -9,7 +9,7 @@ Most of my time these days is spent on writing projects, but to work with others
 
   - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (20+ patents and publications, 400+ citations).  **Read my original work** in algorithmic and software engineering. We can build on these ideas.
   - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (practical accomplishments at 1QBit, CME Group, Sony, CBC and other great places).  **Take advantage of my experience.**  Remember that for every success there are hundreds of failures and wrong turnings, which no one puts on their resume or brags about online. **Avoid failure** by reviewing your plans with someone who has been there.    
-  - **[Andrew Milne on Substack](https://milnea.substack.com).** Original essays, commentary, pictures, poetry and excerpts from larger works in progress, published every few months or so.  **Let's compare our thoughts.** You don't have to subscribe to read the latest articles, like [Anger against war](https://open.substack.com/pub/milnea/p/anger-against-war), or classic retrospectives like [How we invented the Helios Match Engine for the New York Mercantile Exchange](https://open.substack.com/pub/milnea/p/how-we-invented-the-helios-match).  Subscriptions are free, however, and very welcome as a sign of support.
+  - **[Andrew Milne on Substack](https://milnea.substack.com).** Original essays, commentary, pictures, poetry and excerpts from larger works in progress, published every few months or so.  **Let's compare our thoughts.** You don't have to subscribe to read the latest articles, like [Anger against war](https://open.substack.com/pub/milnea/p/anger-against-war), or  [Shakespeare and AI](https://open.substack.com/pub/milnea/p/shakespeare-and-ai).  Subscriptions are free, however, and welcome as a sign of support.
   - **[Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).** Join a collaborative writing project led by myself and former colleagues from 1QBit. Our goal is to create a resource for people who want to start a Sun Tzu Reading Project in their own organizations. We look for ways to apply *The Art of War* and other classic texts to modern conflicts in business and politics. New readers and writers are welcome.  I  host the project on Substack, along with the [yubik.com strategic engineering newsletter](https://yubik.substack.com).
   - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4).** Download some of my unpublished research notes.  There are many techniques just waiting to be applied, such as using Fourier analysis to estimate Power Usage Efficiency (PUE) at a data center. ResearchGate requires a login now, but it's still free.
   - **[Just ask!](mailto:andrew@yubik.com)** Send me an e-mail. A lot of my work has not been published, and most of my NDA’s and non-competes have expired.
@@ -170,3 +170,9 @@ Most of my work involves communicating with other people. However, I frequently 
 
 #### You can also follow me on  **[Bluesky](https://bsky.app/profile/friendofmerlin.bsky.social)** (although it's mostly cat pictures).
  
+If you’ve reached this point and want to know more about what I’m like to work with, you might like  [How we invented the Helios Match Engine for the New York Mercantile Exchange](https://open.substack.com/pub/milnea/p/how-we-invented-the-helios-match).  Most of the members on the project team are accessible through LinkedIn.
+
+If you’re from Chicago, you might enjoy my [Soliloquy in the Palmer House Hotel Bar](https://open.substack.com/pub/milnea/p/soliloquy-in-the-palmer-house-hotel).  The paired statues of Romeo and Juliet are worth another look (I had to work a lot with the image settings to bring out Romeo’s expression). 
+
+If you're looking for Merlin, he's [here](https://open.substack.com/pub/milnea/p/merlin-observes) and [here](https://open.substack.com/pub/milnea/p/complex-pattern-simple-reaction).
+
