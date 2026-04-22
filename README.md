@@ -53,7 +53,7 @@ CME Group is the world’s leading derivatives marketplace. It operates the Chic
 
  - Provided the CME Strategic Investment Group with technical due diligence, leading to an early-stage investment in 1QB Information Technologies (1QBit), Vancouver-based startup focused on quantum computing and machine learning.  I subsequently joined 1QBit as a subject matter expert in finance technology.
    
- - Initiated a new R&D relationship with the Graduate Program in Financial Engineering at the Stevens Institute of Technology in Hoboken.
+ - Initiated a new R&D relationship between the CME Group Foundation and the Graduate Program in Financial Engineering at the Stevens Institute of Technology in Hoboken.
    
  - Expanded Match Engine R&D into collaborative projects with Business Intelligence and Research & Product Development, e.g. to study how implied markets could be used to improve liquidity in corn futures at middle and distant expiries.
 
@@ -112,7 +112,7 @@ Director, E-Commerce for the Entertainment Division and the International Busine
 
 -----
 
-### Senior Researcher and Developer for Audio/Media, N2K Entertainment (Encoded Music Online Delivery) 
+### Senior Researcher and Developer for Audio/Media, N2K Entertainment, Advanced Creative Technology Group 
 
 January 1997 to May 1999
 
