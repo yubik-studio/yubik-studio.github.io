@@ -152,7 +152,8 @@ CBC is Canada’s public broadcaster, with an annual budget (at the time) of  $1
   - **M.A.Sc.	Engineering Physics,** University of British Columbia, Canada
   - **B.A.Sc. Electrical Engineering,** University of British Columbia, Canada
 
-  - **Professional Engineer (non-practicing), Association of Professional Engineers and Geoscientists of British Columbia** 
+  - **Professional Engineer (non-practicing), APEGBC Registration #52873.**
+
 
   - Diploma in Television Studio Production (Toronto Metropolitan University)  
   - Proficient in French.  Ingénieur (*Ordre des ingénieurs du Québec*), 1992-2021 
