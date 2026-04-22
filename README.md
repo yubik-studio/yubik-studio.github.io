@@ -1,5 +1,5 @@
 ### Andrew Milne
-Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author and instructor.  Consultant in technology and business planning.  Discovery through creation is a central theme in my work. 
+Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, writer, speaker and consultant in technology and business planning.  Discovery through creation is a central theme in my work. 
 
 I believe that we improve our knowledge of Nature by creating things, including algorithms that express our knowledge in abstract ways. We improve our knowledge of ourselves and each other by sharing our ideas through Art and Science.
 
@@ -179,10 +179,10 @@ Most of my work involves communicating with other people. However, I frequently 
 
 #### You can also follow me on  **[Bluesky](https://bsky.app/profile/friendofmerlin.bsky.social)** (although it's mostly cat pictures).
  
-If you’ve reached this point and want to know more about what it's like to work with me, please take a look at [How we invented the Helios Match Engine for the New York Mercantile Exchange](https://open.substack.com/pub/milnea/p/how-we-invented-the-helios-match).  Most of the people on the project team are still accessible through LinkedIn.
+If you’ve reached this point and want to know more about what it's like to work with me, please take a look at **[How we invented the Helios Match Engine for the New York Mercantile Exchange](https://open.substack.com/pub/milnea/p/how-we-invented-the-helios-match).**  Most of the people on the project team are still accessible through LinkedIn.
 
-If you’re from Chicago, you might enjoy my [Soliloquy in the Palmer House Hotel Bar](https://open.substack.com/pub/milnea/p/soliloquy-in-the-palmer-house-hotel).  The paired statues of Romeo and Juliet are worth looking at more closely (high-contrast image settings bring out more of Romeo’s expression). 
+If you’re from Chicago, you might enjoy my **[Soliloquy in the Palmer House Hotel Bar](https://open.substack.com/pub/milnea/p/soliloquy-in-the-palmer-house-hotel).**  The paired statues of Romeo and Juliet are worth looking at more closely (high-contrast image settings bring out more of Romeo’s expression). 
 
-If you're looking for Merlin (our family cat), he's [here](https://open.substack.com/pub/milnea/p/complex-pattern-simple-reaction) and [here](https://open.substack.com/pub/milnea/p/merlin-observes), one step ahead of Schrödinger. 
+If you're looking for Merlin (our family cat), he's **[here](https://open.substack.com/pub/milnea/p/complex-pattern-simple-reaction)** and **[here](https://open.substack.com/pub/milnea/p/merlin-observes),** one step ahead of Schrödinger. 
 
 
