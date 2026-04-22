@@ -23,9 +23,7 @@ My core skills are in applied science, but my core values are in rational inquir
 -----
 ## Andrew Milne Online Resume
 
-Advice and support in new technology development and business planning, based on over forty years of practical experience as an engineer and manager.  
-
-This is a detailed resume, offered in the hope that you might find something that resonates with your current need.
+Thought leader in applied math and physics.  Experienced R&D manager. A creative problem-solver committed to the success of everyone on the team.  
 
 ## EXPERIENCE
 
