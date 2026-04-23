@@ -1,7 +1,7 @@
 ### Andrew Milne
 Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, writer, speaker and consultant in technology and business planning.  Discovery through creation is a central theme in my work. 
 
-I believe that we improve our knowledge of Nature by creating things, including algorithms that express our knowledge in abstract ways. We improve our knowledge of ourselves and each other by sharing our ideas through Art and Science.
+I believe that we improve our knowledge of Nature by creating things, including algorithms that express our knowledge in abstract ways. We improve our knowledge of ourselves and each other by sharing ideas through Art and Science.
 
 ### Let's work on something together! 
 
@@ -23,7 +23,7 @@ My core skills are in applied science, but my core values are in rational inquir
 -----
 ## Andrew Milne Online Resume
 
-Thought leader in applied math and physics.  Experienced R&D manager. A creative problem-solver committed to the success of everyone on the team.  
+My advice is always based on practical experience.  Technology changes, but the people who create technology are surprisingly constant.  Somewhere in this long collection of projects and accomplishments you may find something that resonates with your current needs. 
 
 ## EXPERIENCE
 
