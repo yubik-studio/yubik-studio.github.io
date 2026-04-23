@@ -137,7 +137,6 @@ CBC is Canada’s public broadcaster, with an annual budget (at the time) of  $1
     - Thought leader and technical architect for CBC’s transition to computer-based broadcasting.  Managed suppliers and consulted on all computer-related projects for over six years, including Desktop Radio and Desktop Television for journalists.
     - Managed the evaluation lab and the national engineering test equipment pool.
     - Prepared strategic briefings (in English and French) for senior engineering management.
-<p>
 
 
   - Engineer, Strategic Engineering, Capital Projects 
