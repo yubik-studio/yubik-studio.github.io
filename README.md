@@ -18,12 +18,14 @@ Most of my time now is spent on writing projects, but work with others is always
 My core skills are in applied science, but my core values are in rational inquiry and respect for evidence and logic.  I'm open to any kind of project that puts these to good use.   
 
 ### Help us develop our Art of War strategy workshops 
- [Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com) is looking for "beta participants" to help us in developing our strategy workshops. Our goal is to help people set up their own discussion groups and contribute to the larger project (an open source model). However, each business [has its own way of connecting Sun Tzu's world with its own](https://open.substack.com/pub/drawinglegsonasnake/p/sun-tzu-chapter-one-laying-plans). We'd like to learn more about these.  Please [contact me](mailto:andrew@yubik.com) for details. 
+ [Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com) is looking for "beta participants" to help us in developing our strategy workshops. Our goal is to help people set up their own discussion groups and contribute to the larger project (an open source model). However, each business has its own way of [connecting Sun Tzu's world with its own](https://open.substack.com/pub/drawinglegsonasnake/p/sun-tzu-chapter-one-laying-plans). We'd like to learn more about these.  Please [contact me](mailto:andrew@yubik.com) for details. 
 
 -----
 ## Andrew Milne Online Resume
 
 My advice is always based on practical experience.  Technology changes, but the people who create technology are surprisingly constant.  Somewhere in this long collection of projects and accomplishments you may find something that resonates with your current needs. 
+
+My thinking about creative teams and their management appears in **[Strategic Research and Development](https://open.substack.com/pub/yubik/p/strategic-research-and-development).**  There are many parallels between art and science, especially around the issue of intellectual property and who controls it.    
 
 ## EXPERIENCE
 
@@ -36,7 +38,7 @@ October 2015 to November 2022
 
   - Responsible for product strategy, marketing, sales, and general operations in finance products, as well as for ongoing R&D. 
 
-  - Created 1QBit’s first commercial product, the CME Market Sentiment Meter, in collaboration with CME Group Chief Economist Blu Putnam. A 100% cloud-native predictive modeling data service sold through CME DataMine, for NYMEX energies, S&P 500 -e-minis (ES), Treasuries, gold, corn, soybeans and bitcoin (BTC) futures.
+  - Created 1QBit’s first commercial product, the CME Market Sentiment Meter, in collaboration with CME Group Chief Economist Blu Putnam. A 100% cloud-native predictive modeling data service sold through CME DataMine, for NYMEX energies, S&P 500 -e-minis (ES), Treasuries, gold, corn, soybeans and bitcoin (BTC) futures.  The Sentiment Meter has been discontinued, but some of its documentation is still available online at [1QBit](https://1qbit.com/market-sentiment-meter-msm) and [CME Group](https://www.cmegroup.com/content/dam/cmegroup/education/files/an-introduction-to-the-market-sentiment-meter.pdf)
 
  - Created the 1QBit Academic Collaboration Program in Finance, the company's most successful market development initiative for quantum computing. Supervised 1QBit staff analysts in their guidance of students in classical and quantum projects at University College London, the University of California Berkeley, the Stevens Institute, and other top universities.  Eight dissertations in 2 years of operation.
 
@@ -135,7 +137,7 @@ CBC is Canada’s public broadcaster, with an annual budget (at the time) of  $1
     - Thought leader and technical architect for CBC’s transition to computer-based broadcasting.  Managed suppliers and consulted on all computer-related projects for over six years, including Desktop Radio and Desktop Television for journalists.
     - Managed the evaluation lab and the national engineering test equipment pool.
     - Prepared strategic briefings (in English and French) for senior engineering management.
-
+<p>
 
 
   - Engineer, Strategic Engineering, Capital Projects 
