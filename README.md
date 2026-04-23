@@ -25,7 +25,7 @@ My core skills are in applied science, but my core values are in rational inquir
 
 My advice is always based on practical experience.  Technology changes, but the people who create technology are surprisingly constant.  Somewhere in this long collection of projects and accomplishments you may find something that resonates with your current needs. 
 
-My thinking about creative teams and their management appears in **[Strategic Research and Development](https://open.substack.com/pub/yubik/p/strategic-research-and-development).**  There are many parallels between art and science, especially around the issue of intellectual property and who controls it.    
+My thinking about creative teams and their management appears in **[Strategic Research and Development: Managing Scientists and Engineers in their inventive roles](https://open.substack.com/pub/yubik/p/strategic-research-and-development).**  There are many parallels between art and science, especially around the issue of intellectual property and who controls it.    
 
 ## EXPERIENCE
 
@@ -36,11 +36,16 @@ October 2015 to November 2022
 
 1QBit was founded in 2012 to develop software for quantum computing and machine learning. The company was privately held by a group of strategic investors, including Accenture, Allianz, CME Group, Fujitsu, NatWest and the Siam Commercial Bank.
 
-  - Responsible for product strategy, marketing, sales, and general operations in finance products, as well as for ongoing R&D. 
+  - Responsible for product strategy, marketing, sales, and general operations in finance products, as well as for ongoing R&D.
 
   - Created 1QBit’s first commercial product, the CME Market Sentiment Meter, in collaboration with CME Group Chief Economist Blu Putnam. A 100% cloud-native predictive modeling data service sold through CME DataMine, for NYMEX energies, S&P 500 -e-minis (ES), Treasuries, gold, corn, soybeans and bitcoin (BTC) futures.  The Sentiment Meter has been discontinued, but some of its documentation is still available online at [1QBit](https://1qbit.com/market-sentiment-meter-msm) and [CME Group](https://www.cmegroup.com/content/dam/cmegroup/education/files/an-introduction-to-the-market-sentiment-meter.pdf)
 
  - Created the 1QBit Academic Collaboration Program in Finance, the company's most successful market development initiative for quantum computing. Supervised 1QBit staff analysts in their guidance of students in classical and quantum projects at University College London, the University of California Berkeley, the Stevens Institute, and other top universities.  Eight dissertations in 2 years of operation.
+
+ - Implemented quantum computing solutions for swap netting, clique analysis in forwards markets, feature selection in credit scoring, and optimal position allocation (OTC vs. centrally-cleared) in Eurodollar futures & strategies.
+
+ - Led the company’s adoption of 5C market analysis, product roadmapping, agile requirements, and other process improvements.
+
 
 
 -----
@@ -57,9 +62,9 @@ CME Group is the world’s leading derivatives marketplace. It operates the Chic
    
  - Initiated a new R&D relationship between the CME Group Foundation and the Graduate Program in Financial Engineering at the Stevens Institute of Technology in Hoboken.
    
- - Expanded Match Engine R&D into collaborative projects with Business Intelligence and Research & Product Development, e.g. to study how implied markets could be used to improve liquidity in corn futures at middle and distant expiries.
+ - Supervised the conversion of my NYMEX match engine into an implied market analyzer and arbitrage cycle detector for the Globex trading system, and expanded CME Match Engine R&D into collaborative projects with Business Intelligence and Research & Product Development, e.g. to study how implied markets could be used to improve liquidity in corn futures at middle and distant expiries.
 
-  - Developed new correlation techniques for Match Engine logs and FIX message time-of-flight measurements made with Corvil fiber taps, leading to new efficiencies in the Globex match engine code. 
+ - Developed new techniques for analyzing match engine trace data and FIX message time-of-flight data from Corvil fiber taps, leading to new efficiencies in the Globex match engine code.
 
  - Managed the development of new 3D interactive visualization tools for market supervision and compliance.  Introduced a novel InfoSec architecture (based on anonymized data sculptures) that made the tools widely deployable.
 
@@ -74,17 +79,20 @@ December 2004 to August 2008
 
 NYMEX is a commodities exchange most known for energy futures trading, specifically crude oil and natural gas. It was acquired by CME Group in 2008.  
 
-  - Led the design, development, and testing of an order matching engine using highly-parallel graph theory algorithms.  Ultimately awarded 20+ U.S. Patents, most as sole or lead inventor.  
+  - Led the design, development, and testing of an order matching engine using highly-parallel graph theory algorithms.  Ultimately awarded [16 U.S. Patents](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ) for this work, most as sole or lead inventor.  
 
   - The rights to my engine design enabled NYMEX to compete successfully as an exchange services provider e.g. to the Dubai Mercantile Exchange (DME). Other exchanges (including CME at the time) were licensees of other IP holders and could not negotiate joint ventures as easily.  
 
-  - Developed new zero-defect design techniques (the NYMEX Match Engine Modeling Language and its applications are covered by U.S. patents 8,595,119 and 10,740,840).  
+  - Developed new zero-defect design techniques (the NYMEX Match Engine Modeling Language and its applications are covered by U.S. patents [8,595,119](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MUcNd5cAAAAJ&citation_for_view=MUcNd5cAAAAJ:0EnyYjriUFMC) and [10,740,840](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MUcNd5cAAAAJ&cstart=20&pagesize=80&citation_for_view=MUcNd5cAAAAJ:5nxA0vEk-isC)).  
 
 -----
 
 ### Manager, Business Planning; Manager, Technology, Sony Corporation of America (SCA)
 
 February 2002 to June 2004
+
+SCA served as the U.S. host for cross-functional project teams managed from Tokyo, and for synergy products combining Music, Pictures, Electronics and Computer Entertainment.
+
 
   - Manager of Business Planning, e-Platform Technologies, the New York branch of Sony’s Network Applications and Content Services Group in Tokyo. 
 
@@ -134,7 +142,7 @@ CBC is Canada’s public broadcaster, with an annual budget (at the time) of  $1
 
   - Senior Engineer, Production Systems Development.
 
-    - Thought leader and technical architect for CBC’s transition to computer-based broadcasting.  Managed suppliers and consulted on all computer-related projects for over six years, including Desktop Radio and Desktop Television for journalists.
+    - Thought leader and technical architect for CBC’s transition to computer-based broadcasting.  Managed suppliers and consulted on all computer-related projects for over six years, including Desktop Radio and Desktop Television for journalists. My Desktop Radio architecture [shaped CBC Radio for a generation](https://www.torontomu.ca/the-creative-school/news-events/news/2023/11/a-lifetime-of-radio--teachings-from-a-rta-alum/) (there are currently 3000 units installed in 60 locations).
     - Managed the evaluation lab and the national engineering test equipment pool.
     - Prepared strategic briefings (in English and French) for senior engineering management.
 
