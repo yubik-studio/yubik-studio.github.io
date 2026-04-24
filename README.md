@@ -126,7 +126,7 @@ Director, E-Commerce for the Entertainment Division and the International Busine
 
 January 1997 to May 1999
 
-N2K was the leading Internet music company of the late nineties.  Its operations included the Music Boulevard e-commerce site, the N2K Encoded Music label, music portals and individual artist sites for Leonard Bernstein, Miles Davis, David Bowie, and many others.
+N2K was the leading Internet music company of the late nineties.  Its operations included the [Music Boulevard](https://en.wikipedia.org/wiki/Music_Boulevard) e-commerce site, the [N2K Encoded Music](https://en.wikipedia.org/wiki/N-Coded_Music) label, music portals and individual artist sites for Leonard Bernstein, Miles Davis, David Bowie, and many others.
 
   - Built and ran e-mod, the Internet’s first commercial music download service, which figured prominently in N2K’s pre-IPO publicity and mention in 30% of N2K's media coverage overall. 
 
