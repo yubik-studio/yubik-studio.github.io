@@ -95,13 +95,10 @@ SCA served as the U.S. host for cross-functional project teams managed from Toky
 
 
   - Manager of Business Planning, e-Platform Technologies, the New York branch of Sony’s Network Applications and Content Services Group in Tokyo. 
-
     - Brought together Memory Stick, Vaio, Clié (handhelds), Sony Music, Sony Pictures and others for the development of synergy product concepts. Performed market analysis for SCA Corporate Development.  
 
 
-
   - Manager of Technology (digital rights management architect) for a new payment system planned as a joint venture with a major U.S. financial services partner and scoped at $500M.  
-
     - Enabling technologies included PKI, biometric (fingerprint) authentication and FIPS-140 compliant devices with cryptographic tokens.
 
 -----
