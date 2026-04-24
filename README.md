@@ -93,9 +93,8 @@ February 2002 to June 2004
 
 SCA served as the U.S. host for cross-functional project teams managed from Tokyo, and for synergy products combining Music, Pictures, Electronics and Computer Entertainment.
 
-
   - Manager of Business Planning, e-Platform Technologies, the New York branch of Sony’s Network Applications and Content Services Group in Tokyo. 
-    - Brought together Memory Stick, Vaio, Clié (handhelds), Sony Music, Sony Pictures and others for the development of synergy product concepts. Performed market analysis for SCA Corporate Development.  
+    - Brought together Memory Stick, Vaio, Clié (handhelds), Sony Music, Sony Pictures and others for the development of synergy product concepts. Performed market analysis for SCA Corporate Development.  <br><br>
      
 
   - Manager of Technology (digital rights management architect) for a new payment system planned as a joint venture with a major U.S. financial services partner and scoped at $500M.  
