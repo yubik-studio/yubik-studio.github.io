@@ -1,5 +1,5 @@
 ### Andrew Milne
-Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author, speaker and consultant in technology and business planning.  Discovery through creation is a central theme in my work. 
+Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author, instructor and consultant in technology and business planning.  Discovery through creation is a central theme in my work. 
 
 I believe that we improve our knowledge of Nature by creating things, including algorithms that express our knowledge in abstract ways. We improve our knowledge of ourselves and each other by sharing ideas through Art and Science.
 
