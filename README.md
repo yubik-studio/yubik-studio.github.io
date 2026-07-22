@@ -1,7 +1,7 @@
 ### Andrew Milne
-Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author and consultant.  Discovery through creation is a central theme in my work. Even to share a thought is to create an impression in someone's mind.
+Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author and advisor to those in search of advice.  Discovery through creation is a central theme in my work. Even to share a thought is to create an impression in someone's mind.
 
-I believe that we most improve our understanding of Nature by creating things, including algorithms that express our knowledge in abstract ways.  We improve our knowledge of ourselves and each other by sharing our worked-out creations through Art and Science. 
+I believe that we improve our understanding of Nature by creating things, including algorithms that express our knowledge in abstract ways.  We improve our knowledge of ourselves and each other by sharing our creations. Art and Science exist in [Equipoise](https://yubik.substack.com/p/coming-soon). 
 
 ### Let's work on something together! 
 
@@ -79,11 +79,11 @@ December 2004 to August 2008
 
 NYMEX is a commodities exchange most known for energy futures trading, specifically crude oil and natural gas. It was acquired by CME Group in 2008.  
 
-  - Led the design, development, and testing of an order matching engine using highly-parallel graph theory algorithms.  Ultimately awarded [16 U.S. Patents](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ) for this work, most as sole or lead inventor.  Learn how we did this at  [How we invented the Helios Match Engine for the New York Mercantile Exchange](https://milnea.substack.com/p/how-we-invented-the-helios-match).
+  - Led the design, development, and testing of an order matching engine using highly-parallel graph theory algorithms.  Ultimately awarded [16 U.S. Patents](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ) for this work, most as sole or lead inventor.  
 
   - The rights to my engine design enabled NYMEX to compete successfully as an exchange services provider e.g. to the Dubai Mercantile Exchange (DME). Other exchanges (including CME at the time) were licensees of other IP holders and could not negotiate joint ventures as easily.  
 
-  - Developed new zero-defect design techniques (the NYMEX Match Engine Modeling Language and its applications are covered by U.S. patents [8,595,119](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MUcNd5cAAAAJ&citation_for_view=MUcNd5cAAAAJ:0EnyYjriUFMC) and [10,740,840](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MUcNd5cAAAAJ&cstart=20&pagesize=80&citation_for_view=MUcNd5cAAAAJ:5nxA0vEk-isC)).  
+  - Developed new zero-defect design techniques (the NYMEX Match Engine Modeling Language and its applications are covered by U.S. patents [8,595,119](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MUcNd5cAAAAJ&citation_for_view=MUcNd5cAAAAJ:0EnyYjriUFMC) and [10,740,840](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MUcNd5cAAAAJ&cstart=20&pagesize=80&citation_for_view=MUcNd5cAAAAJ:5nxA0vEk-isC)). Learn more about zero-defect software engineering at  [How we invented the Helios Match Engine for the New York Mercantile Exchange](https://milnea.substack.com/p/how-we-invented-the-helios-match). 
 
 -----
 
@@ -165,14 +165,14 @@ CBC is Canada’s public broadcaster, with an annual budget (at the time) of  $1
 
   - Diploma in Television Studio Production (Toronto Metropolitan University)  
   - Proficient in French.  Ingénieur (*Ordre des ingénieurs du Québec*), 1992-2021 
-  - Studied Japanese to the 2nd year college level (*Université de Montréal*).
+  - Studied Japanese to the 2nd year college level (*Collège Bois-de-Boulogne* and *Université de Montréal*). Part of this experience I describe in [Characters](https://www.poetose.com/pub/characters-andrew-milne#/), a short poem in English, French and Japanese, published by [Poetose Journal](https://www.poetose.com/#/).
 
 For a complete list of my patents and publications, see **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)**.  
 
 Some of my unpublished material is available on 
  **[ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4)**, including a tutorial on Granger Causation with Python code to replicate the examples.  Granger Causation is a great technique, but it doesn't work the way that most people think it does.
 
-My focus is always on connecting people with systems, **[a concept that I recently wrote about on Substack](https://open.substack.com/pub/milnea/p/connecting-people-with-systems).**  I believe strongly that inclusive team building and agile methodologies are big part of this, and over the years they have brought me good results.  
+My focus is always on **[connecting people with systems](https://open.substack.com/pub/milnea/p/connecting-people-with-systems),** one of several articles on my Substack that deal with groups and decision making.  I believe strongly that inclusive team building and agile methodologies are big part of this, and over the years they have brought me good results.  
 
 
 ## TOOLS AND TECHNOLOGIES RECENTLY USED: 
