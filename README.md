@@ -1,15 +1,15 @@
 ### Andrew Milne
-Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author and consultant.  Discovery through creation is a central theme in my work. 
+Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author and consultant.  Discovery through creation is a central theme in my work. Even to share a thought is to create an impression in someone's mind.
 
-I believe that we improve our understanding of Nature by creating things, including algorithms that express our knowledge in abstract ways.
+I believe that we most improve our understanding of Nature by creating things, including algorithms that express our knowledge in abstract ways.  We improve our knowledge of ourselves and each other by sharing our worked-out creations through Art and Science. 
 
 ### Let's work on something together! 
 
 Most of my time is spent on writing projects, but work with others is always rewarding.  Here are some places we can start:
 
-- **[Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).** Join a collaborative writing project led by myself and former colleagues from 1QBit.  We look for ways to apply Sun Tzu's *Art of War* to modern conflicts in business and politics. Our goal is to create a resource for people who want to start an effective strategy discussion group in their own organizations. New readers and writers are welcome.  I host the project on Substack, along with the [yubik.com strategic engineering newsletter](https://yubik.substack.com).
- - **[Andrew Milne on Substack](https://milnea.substack.com).** My personal substack. Original essays, commentary, pictures, poetry and excerpts from larger works in progress, published every few months or so.  **Let's compare our thoughts.** You don't have to subscribe to read the latest articles, like [Anger against war](https://open.substack.com/pub/milnea/p/anger-against-war), or  [Shakespeare and AI](https://open.substack.com/pub/milnea/p/shakespeare-and-ai).  Subscriptions are free, however, and welcome as a sign of your continuing interest.
- - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (20+ patents and publications, 400+ citations).  **Read my original work** in algorithmic and software engineering (mostly done at NYMEX for high-frequency futures and options trading).  We can build on these ideas.
+- **[Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).** Join a collaborative writing project led by myself and former colleagues from 1QBit.  We look for ways to apply Sun Tzu's *Art of War* to modern conflicts in business and politics. Our larger goal is to help people start strategy discussion groups in their own organizations. New readers and writers are welcome.  I host the project on Substack, along with the [yubik.com strategic engineering newsletter](https://yubik.substack.com).
+ - **[Andrew Milne on Substack](https://milnea.substack.com).** My personal substack. Original essays, commentary, pictures, poetry and excerpts from larger works in progress, published every few months or so.  **Let's compare our thoughts.** You don't have to subscribe to read the latest articles, like [Anger against war](https://open.substack.com/pub/milnea/p/anger-against-war),  [Shakespeare and AI](https://open.substack.com/pub/milnea/p/shakespeare-and-ai) or [In Paint we Trust](https://milnea.substack.com/p/in-paint-we-trust).   Subscriptions are free, however, and welcome as a sign of your continuing interest.
+ - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (20+ patents and publications, 450+ citations).  **Read my original work** in algorithmic and software engineering (mostly done at NYMEX for high-frequency futures and options trading).  We can build on these ideas.
   - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4).** Download some of my unpublished research notes.  There are many techniques just waiting to be applied, such as using Fourier analysis to estimate Power Usage Efficiency (PUE) at a data center. ResearchGate requires a login now, but it's still free.
  - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (practical accomplishments at 1QBit, CME Group, Sony, CBC and other great places).  **Take advantage of my experience.**  Remember that for every success there are hundreds of failures and wrong turnings, which no one puts on their resume or brags about online. **Avoid failure** by reviewing your plans confidentially with someone who has been there, done that, and carried on successfully. 
   - **[Just ask!](mailto:andrew@yubik.com)** Send me an e-mail. A lot of my work has not been published, and many of my NDA’s and non-competes have expired.
@@ -18,7 +18,7 @@ Most of my time is spent on writing projects, but work with others is always rew
 My core skills are in applied science, but my core values are in rational inquiry and respect for evidence and logic.  I'm open to any kind of project that puts these to good use.   
 
 ### Help us develop our Art of War strategy workshops 
- [Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com) is looking for "beta participants" to help us in developing our strategy workshops. Our goal is to help people set up their own discussion groups and contribute to the larger project (an open source model). However, each business has its own way of [connecting Sun Tzu's world with its own](https://open.substack.com/pub/drawinglegsonasnake/p/sun-tzu-chapter-one-laying-plans). We'd like to learn more about these.  Please [contact me](mailto:andrew@yubik.com) for details. 
+ [Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com) is looking for "beta participants" to help us in developing our strategy workshops. Our goal is to help people set up their own discussion groups and contribute to the larger project (an open source model). However, each business has its own way of connecting Sun Tzu's world with its own, as we found in our assessment of Earls *versus* Cactus Club in the [Vancouver Restaurant Wars](https://drawinglegsonasnake.substack.com/p/week-8-the-seven-criteria-of-assessment). We'd like to learn more about these.  Please [contact me](mailto:andrew@yubik.com) for details. 
 
 -----
 ## Andrew Milne Online Resume
@@ -42,9 +42,9 @@ October 2015 to November 2022
 
  - Created the 1QBit Academic Collaboration Program in Finance, the company's most successful market development initiative for quantum computing. Supervised 1QBit staff analysts in their guidance of students in classical and quantum projects at University College London, the University of California Berkeley, the Stevens Institute, and other top universities.  Eight dissertations in 2 years of operation.
 
- - Implemented quantum computing solutions for swap netting, clique analysis in forwards markets, feature selection in credit scoring, and optimal position allocation (OTC vs. centrally-cleared) in Eurodollar futures & strategies.
+ - Implemented quantum computing solutions for swap netting, clique analysis in forwards markets, [feature selection in credit scoring](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MUcNd5cAAAAJ&citation_for_view=MUcNd5cAAAAJ:zYLM7Y9cAGgC), and optimal position allocation (OTC vs. centrally-cleared) in Eurodollar futures & strategies.
 
- - Led the company’s adoption of 5C market analysis, product roadmapping, agile requirements, and other process improvements.
+ - Led the company’s adoption of structured market analysis, product roadmapping, agile requirements, and other process improvements.
 
 
 
@@ -62,7 +62,7 @@ CME Group is the world’s leading derivatives marketplace. It operates the Chic
    
  - Initiated a new R&D relationship between the CME Group Foundation and the Graduate Program in Financial Engineering at the Stevens Institute of Technology in Hoboken.
    
- - Supervised the conversion of my NYMEX match engine into an implied market analyzer and arbitrage cycle detector for the Globex trading system, and expanded CME Match Engine R&D into collaborative projects with Business Intelligence and Research & Product Development, e.g. to study how implied markets could be used to improve liquidity in corn futures at middle and distant expiries.
+ - Supervised the conversion of my [Helios Match Engine](https://milnea.substack.com/p/how-we-invented-the-helios-match) from NYMEX into an implied market analyzer and arbitrage cycle detector for the Globex trading system, and expanded CME Match Engine R&D into collaborative projects with Business Intelligence and Research & Product Development, e.g. to study how implied markets could be used to improve liquidity in corn futures at middle and distant expiries.
 
  - Developed new techniques for analyzing match engine trace data and FIX message time-of-flight data from Corvil fiber taps, leading to new efficiencies in the Globex match engine code.
 
@@ -79,7 +79,7 @@ December 2004 to August 2008
 
 NYMEX is a commodities exchange most known for energy futures trading, specifically crude oil and natural gas. It was acquired by CME Group in 2008.  
 
-  - Led the design, development, and testing of an order matching engine using highly-parallel graph theory algorithms.  Ultimately awarded [16 U.S. Patents](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ) for this work, most as sole or lead inventor.  
+  - Led the design, development, and testing of an order matching engine using highly-parallel graph theory algorithms.  Ultimately awarded [16 U.S. Patents](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ) for this work, most as sole or lead inventor.  Learn how we did this at  [How we invented the Helios Match Engine for the New York Mercantile Exchange](https://milnea.substack.com/p/how-we-invented-the-helios-match).
 
   - The rights to my engine design enabled NYMEX to compete successfully as an exchange services provider e.g. to the Dubai Mercantile Exchange (DME). Other exchanges (including CME at the time) were licensees of other IP holders and could not negotiate joint ventures as easily.  
 
