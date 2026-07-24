@@ -1,7 +1,7 @@
 ### Andrew Milne
 Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author and consultant.  Discovery through creation is a central theme in my work. Even to share a thought is to create an impression in someone's mind.
 
-I believe that we improve our understanding of Nature by creating things, including algorithms that express our knowledge in abstract ways.  We improve our knowledge of ourselves and each other by sharing our creations. Art and Science exist in [Equipoise](https://yubik.substack.com/p/coming-soon). 
+I believe that we improve our understanding of Nature by creating things, including algorithms that express our knowledge in abstract ways.  We improve our knowledge of ourselves and each other by sharing our creations - or by pitting them against each other to expose their strengths and weaknesses. Art and Science exist in [Equipoise](https://yubik.substack.com/p/coming-soon). 
 
 ### Let's work on something together! 
 
