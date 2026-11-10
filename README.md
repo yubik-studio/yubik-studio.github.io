@@ -1,11 +1,11 @@
 ### Andrew Milne
-Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author and consultant.  Discovery through creation is a central theme in my work. Even to share a thought is to create an impression in someone's mind.
+Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author and teacher.  Discovery through creation is a central theme in my work. Even to share a thought is to create an impression in someone's mind.
 
 I believe that we improve our understanding of Nature by creating things, including algorithms that express our knowledge in abstract ways.  We improve our knowledge of ourselves and each other by sharing our creations - or by pitting them against each other to expose their strengths and weaknesses. Art and Science exist in [Equipoise](https://yubik.substack.com/p/coming-soon). 
 
 ### Let's work on something together! 
 
-Most of my time is spent on writing projects, but work with others is always rewarding.  Here are some places we can start:
+Most of my time these days is spent on writing projects, but work with others is always rewarding.  Here are some places we can start:
 
 - **[Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).** Join a collaborative writing project led by myself and former colleagues from 1QBit.  We look for ways to apply Sun Tzu's *Art of War* to modern conflicts in business and politics. Our larger goal is to help people start strategy discussion groups in their own organizations. New readers and writers are welcome.  I host the project on Substack, along with the [yubik.com strategic engineering newsletter](https://yubik.substack.com).
  - **[Andrew Milne on Substack](https://milnea.substack.com).** My personal substack. Original essays, commentary, pictures, poetry and excerpts from larger works in progress, published every few months or so.  **Let's compare our thoughts.** You don't have to subscribe to read the latest articles, like [Anger against war](https://open.substack.com/pub/milnea/p/anger-against-war),  [Shakespeare and AI](https://open.substack.com/pub/milnea/p/shakespeare-and-ai) or [In Paint We Trust](https://milnea.substack.com/p/in-paint-we-trust).   Subscriptions are free, however, and welcome as a sign of your continuing interest.
