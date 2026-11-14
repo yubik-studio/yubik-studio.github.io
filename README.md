@@ -1,16 +1,16 @@
 ### Andrew Milne
-Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer and author.  Discovery through creation is a central theme in my work. 
+Welcome to yubik.com, the home website for  **Andrew Milne.**  Inventor, engineer, author and advisor.  Discovery through creation is a central theme in my work. 
 
 ### Let's work on something together! 
 
 Most of my time these days is spent on writing projects, but work with others is always rewarding.  Here are some places we can start:
 
-- **[Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).** Join a collaborative writing project led by myself and former colleagues from 1QBit.  We look for ways to apply Sun Tzu's *Art of War* to modern conflicts in business and politics. Our larger goal is to help people start strategy discussion groups in their own organizations. New readers and writers are welcome.  We host the project on my Substack.
+- **[Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).** Join a collaborative writing project led by myself and former colleagues from 1QBit.  We look for ways to apply Sun Tzu's *Art of War* to modern conflicts in business and politics. 
  - **[Andrew Milne on Substack](https://milnea.substack.com).** My personal substack. Original essays, commentary, pictures, poetry and excerpts from larger works in progress, published every few months or so.  **Let's compare our thoughts.** You don't have to subscribe to read the latest articles, like [Anger against war](https://open.substack.com/pub/milnea/p/anger-against-war),  [Shakespeare and AI](https://open.substack.com/pub/milnea/p/shakespeare-and-ai) or [In Paint We Trust](https://milnea.substack.com/p/in-paint-we-trust).   Subscriptions are free, however, and welcome as a sign of your continuing interest.
  - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (20+ patents and publications, 450+ citations).  **Read my original work** in algorithmic and software engineering (mostly done at NYMEX for high-frequency futures and options trading).  We can build on these ideas.
-  - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4).** Download some of my unpublished research notes, including tutorials on Fourier analysis and Granger causation. ResearchGate requires a login now, but it's still free.
+  - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4).** Download some of my unpublished research notes, including tutorials on applied Fourier analysis and Granger causation. ResearchGate requires a login now, but it's still free.
  - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (practical accomplishments at 1QBit, CME Group, Sony, CBC and other great places).  **Take advantage of my experience.**  Remember that for every success there are hundreds of failures and wrong turnings, which no one puts on their resume or brags about online. **Avoid failure** by reviewing your plans confidentially with someone who has been there, done that, and carried on successfully. 
-  - **[Just ask!](mailto:andrew@yubik.com)** Send me an e-mail. A lot of my work has not been published, and many of my NDA’s and non-competes have expired.
+  - **[Just ask!](mailto:andrew@yubik.com)** Good advice isn't free, but it's a lot more helpful than bad advice and wishful thinking.  
  
 
 My core skills are in applied science, but my core values are in rational inquiry and respect for evidence and logic.  I'm open to any kind of project that puts these to good use.   
