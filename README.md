@@ -8,7 +8,7 @@ Most of my time these days is spent on writing projects, but work with others is
 - **[Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com).** Join a collaborative writing project led by myself and former colleagues from 1QBit.  We look for ways to apply Sun Tzu's *Art of War* to modern conflicts in business and politics. 
  - **[Andrew Milne on Substack](https://milnea.substack.com).** My personal substack. Original essays, commentary, pictures, poetry and excerpts from larger works in progress, published every few months or so.  **Let's compare our thoughts.** You don't have to subscribe to read the latest articles, like [Anger against war](https://open.substack.com/pub/milnea/p/anger-against-war),  [Shakespeare and AI](https://open.substack.com/pub/milnea/p/shakespeare-and-ai) or [In Paint We Trust](https://milnea.substack.com/p/in-paint-we-trust).   Subscriptions are free, however, and welcome as a sign of your continuing interest.
  - **[Andrew Milne on Google Scholar](https://scholar.google.com/citations?hl=en&user=MUcNd5cAAAAJ)** (20+ patents and publications, 450+ citations).  **Read my original work** in algorithmic and software engineering (mostly done at NYMEX for high-frequency futures and options trading).  We can build on these ideas.
-  - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4).** Download some of my unpublished research notes, including tutorials on applied Fourier analysis and Granger causation. ResearchGate requires a login now, but it's still free.
+  - **[Andrew Milne on ResearchGate](https://www.researchgate.net/profile/Andrew-Milne-4).** Download some of my unpublished research notes, including tutorials on applied Fourier analysis and Granger causation. ResearchGate needs a login now, but it's still free.
  - **[Andrew Milne on LinkedIn](https://www.linkedin.com/in/yubik/)** (practical accomplishments at 1QBit, CME Group, Sony, CBC and other great places).  **Take advantage of my experience.**  Remember that for every success there are hundreds of failures and wrong turnings, which no one puts on their resume or brags about online. **Avoid failure** by reviewing your plans confidentially with someone who has been there, done that, and carried on successfully. 
   - **[Just ask!](mailto:andrew@yubik.com)** Good advice isn't free, but it's a lot more helpful than bad advice and wishful thinking.  
  
@@ -17,6 +17,10 @@ My core skills are in applied science, but my core values are in rational inquir
 
 ### Help us develop our Art of War strategy workshops 
  [Drawing Legs on a Snake](https://drawinglegsonasnake.substack.com) is looking for "beta participants" to help us in developing our strategy workshops. Our goal is to help people set up their own discussion groups and contribute to the larger project (an open source model). However, each business has its own way of connecting Sun Tzu's world with its own, as we found in our assessment of Earls *versus* Cactus Club in the [Vancouver Restaurant Wars](https://drawinglegsonasnake.substack.com/p/week-8-the-seven-criteria-of-assessment). We'd like to learn more about these.  Please [contact me](mailto:andrew@yubik.com) for details. 
+
+If you're looking for an AI strategy (either for or against), read this: **[Yes, AI will take your job](
+https://yubik.substack.com/p/yes-ai-will-take-your-job)**.
+
 
 -----
 ## Andrew Milne Online Resume
